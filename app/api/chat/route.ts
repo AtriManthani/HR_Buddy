@@ -26,6 +26,7 @@
 
 import { NextRequest } from "next/server";
 
+import { handleDemoRequest } from "@/lib/demo/demoHandler";
 import {
   validateChatRequest,
   ValidationError,
@@ -94,6 +95,15 @@ const NO_POLICY_FOUND_MESSAGE = REFUSAL_MESSAGES.notFound;
 // ── POST handler ───────────────────────────────────────────────────────────────
 
 export async function POST(req: NextRequest): Promise<Response> {
+
+  // ── Demo mode short-circuit ────────────────────────────────────────────────
+  // When DEMO_MODE=true the request is handled entirely by the demo handler,
+  // which returns a pre-crafted streaming response without calling the OpenAI
+  // API or the vector store.  Remove this env var (or set it to any value
+  // other than "true") to restore the real pipeline.
+  if (process.env.DEMO_MODE === "true") {
+    return handleDemoRequest(req);
+  }
 
   // Track total request latency from the moment the handler is entered.
   const requestTimer = startTimer();
