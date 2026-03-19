@@ -1,0 +1,634 @@
+--- PAGE 1 ---
+Ohio Ethics Law Overview
+The Ohio Ethics Commission
+30 West Spring Street
+Columbus, Ohio 43215-2256
+Phone: (614) 466-7090
+Fax: (614) 466-8368
+www.ethics.ohio.gov
+
+2
+More information about these matters is available in
+The Ohio Ethics Law and Ohio Ethics Commission Fact Sheet.
+Denotes a relevant linkDenotes an example
+Introduction
+Public servants in Ohio have both privileges and responsibilities. Every day, public servants are privileged
+to help their fellow Ohioans. Whether they provide necessary services to people with disabilities, fight fires
+or crime, or conduct building inspections to make sure new construction is safe, public servants change the
+lives of their fellow citizens for the better.
+Public servants also have responsibilities. One of those responsibilities is to comply with the Ohio Ethics
+Law. The Ethics Law applies to all public officials and employees in the state. Whether they are full-time
+or part-time compensated employees, elected officials, or uncompensated members of decision-making
+boards, all public servants are required to comply with these laws.
+This overview has been created to assist public officials and employees in better understanding - and
+therefore complying with - the Ohio Ethics Law. You may be aware that public agencies are statutorily
+required to provide a copy of the Ohio Ethics Law to all new public officials and employees. This overview
+may serve as a helpful supplementary document that explains the statute in layperson-friendly language.
+Please note that this overview cannot be provided instead of the Ohio Ethics Law, but rather in addition to
+enhance the learner's understanding of the law.
+Throughout this document, you will find explanations of the Ohio Ethics Law along with examples and links
+to previously issued advisory opinions and other commission publications.
+Ethics Commission Authority and Administration
+In addition to the Ethics Law itself (Chapter 102 of the Revised Code), there are two provisions in Chapter
+2921 (Ohio's Criminal Code) that fall under the authority of the Ethics Commission. There "related statutes"
+are included in the document that will be provided to each public official or employee by the public agency.
+The  authority  of  the  Ethics  Commission  is  limited  to  ethics  issues  that  arise  under  Ohio  Revised  Code
+Chapter 102 and Sections 2921.42 and 2921.43.
+
+3
+More information about the Commission's investigative authority can be found on the
+Investigation homepage and The Ohio Ethics Law And Ohio Ethics Commission Fact Sheet.
+The following four provisions of the Ethics Law establish the authority and duties of the Ethics Commission
+and govern its operation.
+R.C. 102.05 creates and empowers the Ethics Commission. Statutes of this kind are called "enabling"
+statutes, because they enable a public body to engage in the activities described in the law. This statute
+defines the makeup of the Ethics Commission, appointment of its members, and its authority.
+R.C. 102.06 describes the Ethics Commission's investigative authority. It establishes the confidentiality of
+investigations, the Commission's subpoena and hearing authority, and allows the Commission to enter into
+settlements of cases.
+R.C. 102.07 describes the confidential nature of Ethics Commission records.
+R.C. 102.08 describes three other areas of the Commission's authority:
+Issuing Advisory Opinions - The Ethics Commission issues advisory opinions in response to questions
+on conflicts of interest or financial disclosure. Any person can request an advisory opinion about actions
+he or she is considering. An advisory opinion of the Commission is a written document based on a written
+request disclosing the relevant facts. The Commission staff cannot provide verbal or written advisory
+opinions in response to questions posed on the telephone or in an email, questions involving the actions
+of someone other than the requester, or questions involving events that have already occurred.
+An advisory opinion issued by the Commission provides the official or employee, and any other person
+in a similar situation, with immunity from civil action, criminal prosecution, or removal from office for the
+activity described in the opinion. More information about the Commission's past advisory opinions and
+mechanisms for seeking new opinions can be found on the Advice homepage.
+Conducting an Educational Program - The Ethics Commission provides a wide variety of ethics
+education and public information. The Commission teaches classes, prepares and disseminates
+pamphlets and information sheets on specific ethics issues, and offers webinars and other online
+education resources. The Commission also prepares a monthly newsletter with updates and new
+information. More information about the Commission's educational activities, including upcoming classes
+and webinars, can be found on the Education homepage.
+Recommending Legislation - The Ethics Commission is empowered to recommend legislative changes
+on matters related to the Ethics Law to the General Assembly.
+
+4
+Table of Contents
+Introduction  ������������������������������������������������������������������������������������������������������������������������������������������������2
+Ethics Commission Authority and Administration
+Chapter 1  ����������������������������������������������������������������������������������������������������������������������������������������������������5
+Definitions (R.C. 102.01)
+Chapter 2  ����������������������������������������������������������������������������������������������������������������������������������������������������6
+Financial Disclosure Laws (R.C. 102.02)
+Notification (R.C. 102.09)
+Chapter 3  ����������������������������������������������������������������������������������������������������������������������������������������������������7
+Revolving Door Law/Post Employment Law (R.C. 102.03(A)(1))
+Post-Employment Disclosure (R.C. 102.021)
+Chapter 4 �����������������������������������������������������������������������������������������������������������������������������������������������������9
+Confidentiality (R.C. 102.03(B))
+License and Rate Making (R.C. 102.03(C))
+Conflicts of Interest Restrictions - Use of Authority (R.C. 102.03(D))
+Chapter 5 ���������������������������������������������������������������������������������������������������������������������������������������������������11
+Conflicts of Interest Restrictions - Soliciting or Accepting Things of Value (R.C. 102.03(E))
+Promising or Giving Things of Value (R.C. 102.03(F))
+Chapter 6  ��������������������������������������������������������������������������������������������������������������������������������������������������13
+Honorarium and Travel Expenses Restrictions (R.C. 102.03(H)(1), (H)(2), and (I))
+Chapter 7  ��������������������������������������������������������������������������������������������������������������������������������������������������14
+Restrictions Applying to Officials and Employees of the Casino Control Commission (R.C. 102.03(L) and
+(M))
+Chapter 8  ��������������������������������������������������������������������������������������������������������������������������������������������������15
+Rendering Services on a Matter Before Another Public Entity (R.C. 102.04)
+Chapter 9  ��������������������������������������������������������������������������������������������������������������������������������������������������18
+Public Contract Law (R.C. 2921.42(A)(1), (A)(2), (A)(3), and (A)(4))
+Chapter 10  ������������������������������������������������������������������������������������������������������������������������������������������������22
+Public Jobs and Family Members (R.C. 2921.42(A)(1))
+Chapter 11  ������������������������������������������������������������������������������������������������������������������������������������������������24
+Supplemental Compensation (R.C. 2921.43)
+Chapter 12  ������������������������������������������������������������������������������������������������������������������������������������������������25
+Election Related Issues (R.C. 2921.43(C) and (F); R.C. 102.03(G))
+Chapter 13  ������������������������������������������������������������������������������������������������������������������������������������������������26
+Restrictions (R.C. 102.99)
+Conclusion  �����������������������������������������������������������������������������������������������������������������������������������������������27
+
+5
+More information about what is included in "anything of value" can be found in
+R.C. 1.03 as well as Advisory Opinion 2001-03 and Advisory Opinion 2009-03.
+More information about which restrictions apply to teachers is available in
+Advisory Opinion 93-017 and Advisory Opinion 2000-04. (R.C. 102.01(B))
+Advisory Opinion 2009-04
+Chapter 1
+Definitions (R.C. 102.01)
+The first section in the law is the definitions. Among the most important definitions are:
+"Public official or employee" is any person who is: (1)
+elected or appointed to an office of a public agency; or (2)
+employed by a public agency. Teachers, professors, or
+other educators are excluded from some, but not all of the
+restrictions.
+"Public agency" is any department, division, institution, board, commission, authority, bureau, or other
+entity of the state, or any county, city, village, township, or other instrumentality of the state. Included are
+any public library, school district, regional transit authority, and all other public bodies. (R.C. 102.01(C))
+"Anything of value" includes any money, goods, checks, real estate interests, the promise of future
+employment, and "every other thing of value."
+
+6
+Chapter 2
+Financial Disclosure Laws (R.C. 102.02)
+The second section in the law covers the financial disclosure requirement. About 12,000 public officials,
+public employees, and candidates for public office complete financial disclosure statements each year.
+The significant majority of public officials and employees don't have to file statements.
+Most people who are required to file statements must disclose personal financial information such as
+sources of income and gifts, companies in which they have investments, and sources of travel expenses
+or meals. (R.C. 102.02(A)) A very small number of filers are required to disclose less information. Included
+are members of college and university boards of trustees and members, uncompensated board members,
+and employees of JobsOhio. These filers, for example, don't have to disclose information about travel or
+meal expenses. (R.C. 102.022)
+All filers, or their agencies, pay filing fees, which help to support the work of the Commission. (R.C.
+102.02(E) and (G)) People who file statements after the deadline must pay late fees. (R.C. 102.02(F))
+People who fail to file or who file false statements may face criminal charges. (R.C. 102.02(C) and (D))
+Most statements filed with the Ethics Commission are public records. (R.C. 102.02(A)) However,
+statements filed by members of state boards and commissions who are not compensated, and statements
+filed by the members and employees of JobsOhio, are confidential. (R.C. 102.02(B))
+Notification (R.C. 102.09)
+This section describes who is responsible for informing public officials and employees about either the
+requirement to file financial disclosure statements or about the Ethics Law itself. The first three sections
+(102.09(A), (B), and (C)) describe the methods whereby certain officials, employees, or candidates
+are given financial disclosure statements. More information about these sections can be found on the
+Financial Disclosure homepage.
+The final section (R.C. 102.09(D)) requires all public agencies to provide a copy of the law to all officials
+and employees who serve the agency. The agency can provide the law in either physical (paper) format
+or as an electronic link. This document was created to accompany the copy of the law provided by a
+public employer and explain the law more fully.
+More information about who is required to file, what they need to disclose, and how the Commission
+handles filed statements is available on the Financial Disclosure homepage. Information about how to
+access statements filed by other officials and employees is also available on the Financial Disclosure
+homepage.
+
+7
+Advisory Opinion 2012-04
+More information about the revolving door restriction is available in the
+Revolving Door Law Fact Sheet and Advisory Opinion 2011-03.
+Example: A member of a city zoning commission is also an architect. As a zoning
+commission member, she participated in a decision on a pending residential project.
+This section prohibits her from representing a client before the zoning commission,
+and before any other board, commission, or office, on the residential project.
+Chapter 3
+Revolving Door Law/Post Employment Law (R.C. 102.03(A)(1))
+Revolving Door (R.C. 102.03(A)(1)): The Ethics Law prohibits a current or former public official or
+employee from representing any person before any public agency on matters in which the official or
+employee personally participated.
+Relevant terms:
+Represent - Any formal or informal appearance before, and any written or oral communication with, any
+public agency.
+Public agency - Any state or local public agency, including any state department, board, or commission,
+any public college or university, and any county, city, village, township, school district, or public library.
+Matter - Any case, proceeding, application, determination, issue, or question. Examples of a "matter"
+include a hearing on a permit application, a policy determination, and an investigation into wrongdoing.
+Personal participation - Any decision, approval, disapproval, recommendation, rendering of advice,
+investigation, or other substantial exercise of administrative discretion. A public official or employee has
+personally participated in a matter if, for example, he or she investigated, made decisions, approved,
+or made recommendations on the matter. A matter is any case, proceeding, application, determination,
+issue, or question.
+Exceptions (R.C. 102.03(A)(6), (7), (8), and (9)): There are
+four main exceptions to the revolving door law:
+R.C. 102.02(A)(6): A former public official or employee is not
+prohibited from assisting or representing his or her former
+public agency.
+
+8
+More information about the post-employment disclosure requirement is available from the
+Office of the Legislative Inspector General.
+More information about this section is available in The Casino Control Commission chapter
+of the Specific Public Professions and Roles Fact Sheet and Advisory Opinion 91-003.
+Advisory Opinion 2012-03
+R.C. 102.02(A)(7): A former public official or employee
+is not prohibited from performing ministerial functions,
+such as filing applications for permits or licenses or other
+documents, on any matter.
+R.C. 102.02(A)(8): A former state employee who gets a new job with a different state agency is not
+prohibited from representing his or her new public employer on any matter, including a matter in which he
+or she personally participated as an employee of the public agency. This exception does not apply to any
+audit or   in which the former state employee personally participated.
+R.C. 102.03(A)(9): A former employee of a local public agency who moves from one job to another job in
+the same local agency is not prohibited from representing his or her new public employer on a matter in
+which he or she personally participated as an employee of the public agency.
+Specific Revolving Door Restrictions: The Ethics Law contains three other specific revolving door
+restrictions that apply to a limited group of public officials and employees. These restrictions apply to:
+Former Commissioners and Attorney Examiners for the Public Utilities Commission of Ohio (R.C.
+102.03(A)(2));
+Former officials and employees of any public agency whose job duties included authority over solid or
+hazardous waste matters (R.C. 102.03(A)(3)); and
+Current or former officials and employees of the Ohio Casino Control Commission (R.C. 102.03(A)(10)).
+Post-Employment Disclosure (R.C. 102.021)
+Any state elected official and any state employee who is required to file a financial disclosure statement
+must, when leaving his or her public position, file a statement disclosing their subsequent place of
+employment. The statement must be filed with the Office of the Legislative Inspector General. Some
+officials and employees may be required to file periodic statements for 24 months after leaving their public
+positions.
+
+9
+Example: The daughter of a school district board member is competing for a district-issued
+scholarship. The school board member is prohibited from using his position, in any way, to
+get the scholarship for his daughter.
+Advisory Opinion 2018-01
+Advisory Opinion 93-012
+Chapter 4
+Confidentiality (R.C. 102.03(B))
+If an official or employee has access to confidential
+information in his or her public job, he or she is prohibited
+from disclosing or using that confidential information, in any
+way, unless the public agency has authorized the person
+to disclose or use it. This restriction is in effect during and
+after a person's public service, as long as the information remains confidential.
+License and Rate Making (R.C. 102.03(C))
+This section prohibits a public official or employee from
+participating in license or rate-making proceedings that
+affect the licenses or rates of the official or business entity
+in which the official or employee, or any of his or her family
+members, has an investment of over five percent.
+Conflicts of Interest Restrictions - Use of Authority (R.C. 102.03(D))
+Use of Position to Secure Benefit (R.C. 102.03(D)): The conflict of interest law prohibits a public official or
+employee from using or authorizing the use of his or her public position to get a benefit for the official or
+employee or for anyone else with whom he or she is closely connected. The law also prohibits the official
+or employee from using his or her public position to avoid a detriment for the official or closely connected
+person. This means that a public official or employee cannot act on a matter before his or her public
+agency if the matter definitely and directly affects:
+• The official or employee;
+• One of the official's or employee's close family members; or
+• One of the official's or employee's business associates.
+
+10
+Advisory Opinion 2009-06
+Advisory Opinion 2009-02
+Example: A village council member is employed by a private company. After a recent village
+inspection, the company was cited for violations and a fine was assessed against it. The
+council member is prohibited from using his position in any way to have the company's fine
+waived or reduced.
+
+11
+More information about this restriction is available in the
+Gifts and Other Things of Value Fact Sheet and Advisory Opinion 89-013.
+Example: A library director is selecting a new catalog system for the library. One of the
+potential vendors would like him to see how its catalog system works for a comparably sized
+district in Massachusetts. The company has offered to provide travel expenses so that the
+director can use the system and discuss it with the other library's employees. The conflict of
+interest law would prohibit the director from accepting the travel expenses.
+Chapter 5
+Conflicts of Interest Restrictions - Soliciting or Accepting Things of Value (R.C. 102.03(E))
+The conflict of interest law also prohibits a public official or employee from soliciting or accepting things of
+value that could have a "substantial and improper influence" on the official or employee. In other words,
+the official or employee cannot solicit or accept "anything of value," such as a gift, travel expenses,
+employment, substantial meals, or other things of significant value from anyone if the thing of value could
+improperly influence the official or employee in the performance of his or her duties. The Commission
+has explained that these kinds of gifts would improperly influence a public official or employee if they are
+provided to the official or employee by anyone that is:
+• Doing or seeking to do business with his or her public agency;
+• Regulated by his or her public agency; or
+• Interested in matters before his or her public agency.
+
+12
+More information about this restriction is available in Advisory Opinion 90-001 and in the
+Gifts and Other Things of Value Fact Sheet.
+More information about this restriction as it applies to seeking or accepting employment is
+available in the Revolving Door Law Fact Sheet and Advisory Opinion 96-004.
+Example: The conflict of interest law would prohibit the company in the previous example
+from promising or giving travel expenses to the library director.
+Promising or Giving Things of Value (R.C. 102.03(F))
+This provision in the conflict of interest law prohibits any person from promising or giving anything
+of substantial value to a public official or employee if the thing of value could have a substantial and
+improper influence on the official or employee.
+
+13
+More information about this provision and its exceptions is available on the web site for the
+Office of the Legislative Inspector General.
+OAC 102-3-08
+More information about this provision is available in the Doing Business with Retirement
+Systems in Ohio chapter of the Specific Public Professions and Roles Fact Sheet.
+Advisory Opinion 99-003
+Chapter 6
+Honorarium and Travel Expenses Restrictions (R.C. 102.03(H)(1), (H)(2), and (I))
+Honorarium (R�C� 102�03(H)(1)) - The Ethics Law prohibits
+most public officials or employees who file financial
+disclosure statements from accepting any honorarium.
+The term "honorarium" is defined in R.C. 102.01(H) as
+any payment for making a speech, writing an article, or
+attending a public or private event. This restriction does not apply to the president, chief administrative
+officer, or trustee of a state university or college.
+Travel Expenses (R�C� 102�03(H)(1)) - This section is an exception to the prohibitions against a public
+official or employee accepting travel expenses. It allows public officials and employees who file financial
+disclosure statements to accept actual travel expenses for travel: (1) to a meeting at which the official
+or employee is participating in a panel or making a speech; or (2) to a meeting of a national or state
+organization to which any state agency pays membership dues. The section allows any official or
+employee who is not required to file a financial disclosure statement to accept an honorarium or travel
+expenses from any person if the payment is made in recognition of the person's interests that exist
+outside his or her public service.
+Travel Expenses for Retirement System Officials (R.C. 102.03(H)(2)) - This provision applies only
+to higher ranking officials and employees of the five state retirement systems. It prohibits the covered
+officials and employees from accepting any travel expenses.
+Travel Expenses in Connection with Conferences,
+Seminars, and Similar Events (R�C� 102�03(I)) -
+This section allows a public official or employee to accept
+travel expenses in connection with conferences and similar
+events in some limited situations. The Commission has
+adopted a rule to explain the application of this exception more fully.
+Restriction on Travel Expenses for Members and Staff of the General Assembly (R.C. 102.031) -
+This section in the Ethics Law applies only to members and employees of the Ohio General Assembly. It
+prohibits these officials and employees from accepting personal travel expenses from legislative agents.
+
+14
+More information is available in the The Casino Control Commission chapter of the
+Specific Public Professions and Roles Fact Sheet and Advisory Opinion 2012-02.
+Chapter 7
+Restrictions Applying to Officials and Employees of the Casino Control Commission (R.C.
+102.03(L) and (M))
+Two sections in the Ohio Ethics Law apply specifically to officials and employees of the Ohio Casino
+Control Commission, which regulates the casino industry in Ohio.
+The first section (R.C. 102.03(L)) prohibits these public officials and employees from:
+• Having any direct or indirect investment in casino businesses or facilities or gaming-related vendors;
+or
+• Having financial or ownership interests in, being creditors of, or having contractual or service
+relationships with casino businesses or facilities or gaming-related vendors.
+The second section (R.C. 102.03(M)) prohibits a member or employee of the Casino Control Commission
+from:
+• Accepting employment, gifts, or other things of value from casino businesses or facilities, or any other
+person subject to the jurisdiction of the Commission.
+• Soliciting, requesting, or taking any other action to secure employment for any person by a casino
+businesses or facilities or any other person subject to the jurisdiction of the Commission; and
+• Participating in casino gaming at any casino facility in Ohio or any affiliated gaming facility located
+anywhere.
+In addition to the penalties that apply to other sections of the Ethics Law, a Casino Control Commission
+official or employee who violates any of the three provisions of R.C. 102.03(M) shall immediately forfeit
+his or her office or employment.
+
+15
+Advisory Opinion 93-010 and Advisory Opinion 2007-03
+Example: A member of the Ohio Example Commission can accept compensation to
+represent a client on a matter before another state board, commission, department, or
+other agency, such as the Ohio Reference Board, provided that he files the required R.C.
+102.04(D) statement. The Commission member must file the statement with the Example
+Commission, the Reference Board, and the Ethics Commission.
+Example: A member of the Ohio Example Commission cannot accept compensation to
+represent a client or prepare work for the client on a matter that is before the Example
+Commission.
+Chapter 8
+Rendering Services on a Matter Before Another Public Entity (R.C. 102.04)
+There are three restrictions in R.C. 102.04. The first two apply to state officials and employees.
+R�C� 102�04(A) prohibits a state official or employee from receiving compensation, from anyone other
+than the state agency that he or she serves, to perform services on matters before any state agency.
+There is an exception to this restriction (R.C. 102.04(D)). The exception applies to non-elected officials
+and employees of any state agency. Under the exception, the state official or employee can be paid to
+provide services on a matter before a state agency provided that:
+1. The agency is not the one that he or she serves; and
+2. The official or employee files an R.C. 102.04(D) statement with both state agencies, and the Ethics
+Commission, disclosing the representation. The statement can be found on the Commission's web
+site.
+
+16
+Advisory Opinion 89-010
+Example: The employee of the ABC Department can sell goods to a state board,
+commission, department or agency other than the ABC Department, such as the 123 Board,
+provided that she meets the exception. If she sells to the 123 Board, she must file the
+statement with the ABC Department, the 123 Board, and the Ethics Commission.
+Example: An employee of the Ohio ABC Department is prohibited from selling goods to the
+ABC Department unless the sale is competitively bid and she submits the lowest and best
+bid.
+R�C� 102�04(B) also applies to state officials and employees. A state official or employee is prohibited
+from selling goods or services, except through competitive bidding, to any state agency.
+There is one exception to this restriction, which applies to non-elected state officials and employees (R.C.
+102.04(D)). The exception applies when:
+1. The official or employee is selling to a state agency other than the one he or she serves; and
+2. The official or employee files a statement (described in R.C. 102.04(D)) with both agencies, and the
+Ethics Commission, disclosing the activity.  The statement can be found on the Commission's Web
+site.
+
+17
+R.C. 102.04(D) Statement
+Example: An employee of the city zoning department can accept compensation to represent
+a client before the city public utilities department provided that she files the required R.C.
+104.04(D) statement with the city zoning department, the city public utilities department and
+the Ethics Commission.
+Example: An employee of a city zoning department cannot accept compensation from
+a client to prepare plans that will be filed with and approved by the zoning department,
+because the approval of the plans is a matter that is before her city department.
+The final restriction, R�C� 102�04(C), applies to officials and employees of local public agencies - that is,
+agencies such as cities, counties, and school districts.
+R.C. 102.04(C) prohibits an official or employee of a local agency from receiving compensation, from
+anyone other than the department or sub-unit of the agency he or she serves, to perform services on
+matters before any other department or sub-unit of the local agency.
+There is one exception to this restriction, which applies to non-elected officials and employees of local
+agencies (R.C. 102.04(D)). The exception applies when:
+1. The official or employee is performing services on a matter that is pending before a department or
+sub-unit of the agency other than the one he or she serves; and
+2. The official or employee files a statement (described in R.C. 102.04(D)) with both agencies, and the
+Ethics Commission, disclosing the activity. The statement can be found on the Commission's web site.
+
+18
+Example: A business associate of a school board member is also a partner in a law firm. If
+the school district would like to hire the law firm, the board member is prohibited from taking
+any formal or informal action to secure the contract because his business associate, as a
+partner, has an interest in any contract awarded to the law firm.
+Chapter 9
+Public Contract Law (R.C. 2921.42(A)(1), (A)(2), (A)(3), and (A)(4))
+There are four main restrictions in R.C. 2921.42. The laws prohibit a public official or employee from:
+1. Authorizing a public contract in which the official, a family member, or a business associate has an
+interest (R.C. 2921.42(A)(1)) (NOTE: This is the section that prohibits nepotism, or authorizing an
+employment contract for a family member. See Chapter 10 );
+2. Authorizing an investment of public funds in which a family member or business associate has an
+interest or from which a family member or business associate receives a fee (R.C. 2921.42(A)(2));
+3. Profiting from a public contract authorized by the official or by a board on which he or she sits unless
+the contract was competitively bid and awarded to the lowest and best bidder (R.C. 2921.42(A)(3));
+and
+4. Having an interest in a public contract of any public agency with which he or she is connected (R.C.
+2921.42(A)(4)).
+A public contract is any purchase or acquisition of goods or services by any public agency. Public contract
+also includes employment with any public agency. (R.C. 2921.42(I))
+Authorizing a Public Contract (R�C� 2921�42(A)(1)): The Ethics Law prohibits a public official or
+employee from authorizing a public contract if the official, a family member, or a business associate has
+an interest in the contract. A public official has "authorized" a contract if he or she has taken any action to
+secure the contract. For example, a public official has authorized a contract if he or she:
+• Voted to award the contract;
+• Signed the contract;
+• Recommended the contract to other officials or employees; or
+• Taken any other official action on the contract.
+
+19
+Example: A state department director authorized an unbid contract to a private company.
+The department director could not accept employment with the company, within twelve
+months after leaving her job with the state, if she would be paid from the contract proceeds
+or otherwise profit from the unbid contract she awarded.
+Advisory Opinion 2016-01 , Advisory Opinion 88-008 and Advisory Opinion 2009-05
+Advisory Opinion 2009-06 and Advisory Opinion 2013-01
+A "business associate" includes any individuals, companies, or organizations with which the official is
+acting together to pursue a common business purpose. Advisory Opinion 2009-05 and Advisory Opinion
+2009-06.
+Examples of a public official's business associates include, but are not limited to, the official's: (1) partners
+in a partnership; (2) co-owners of a business; (3) outside employer; and (4) co-members of an LLC.
+Profiting from a Public Contract (R.C. 2921.42(A)(3)): This restriction prohibits a public official or
+employee from occupying a position of profit in any public contract that he or she authorized. In other
+words, a public official cannot receive a definite and direct financial benefit from any contract that was
+authorized:
+• By the official; or
+• By any board or commission on which he or she served (even if the official didn't vote on the
+authorization).
+This restriction applies to the official or employee during public service and for one year after leaving
+public service. The restriction does not apply to competitively bid contracts awarded to the lower and best
+bidder.
+A person who is employed by a company occupies a position of profit in a public contract awarded to the
+company if:
+• The company depends on the contract;
+• The employee receives compensation, fees, or other direct benefit from the contract; or
+• The employee's job would not exist without the contract.
+
+20
+Example: A city police officer cannot sell consulting services to the city he serves because
+he would have a financial interest in the contract.
+If the police officer serves as a board member of the non-profit organization, he would have
+a fiduciary interest in the contracts of the organization. If the organization received a grant
+from the city, the police officer would have a prohibited fiduciary interest in the contract even
+if he received no financial benefit from it.
+Having an Interest in a Public Contract (R�C� 2921�42(A)(4)): A public official or employee is prohibited
+from having an interest in a contract entered into by his or her public agency. Usually, a public official or
+employee cannot sell goods or services to his or her own agency.
+A public official or employee is prohibited from having a definite and direct interest in a contract with his or
+her public agency. A prohibited interest can be either financial or fiduciary in nature.
+There are two exceptions to this prohibition. A public official or employee does not have a prohibited
+interest in a contract with his or her own agency if:
+1. The official's interest is limited to being a minority stockholder or a creditor of a company that sells
+goods or services to the agency. The official or employee must file an affidavit with the agency
+disclosing his or her interest in the contract (R.C. 2921.42(B)).
+2. The official can meet all parts of a four-part test (R.C. 2921.42(C)). The four parts are:
+• The contract is for necessary goods or services;
+• The goods or services are unobtainable elsewhere for the same or lower cost or are part of a
+course of dealing that began before the official started serving the public agency;
+• The official or employee gives the public agency the same or better treatment than other clients or
+customers; and
+• The official or employee takes no part in the deliberations or decisions of the public agency on the
+contract.
+
+21
+Void and Unenforceable (R�C� 2921�42(H)): This section establishes that contracts and investments in
+which an official, or the official's family members or business associates, have an interest in violation of
+R.C. 2921.42(A) are void and unenforceable.
+Specific Exceptions (R.C. 2921.42(D) and (G)): These two sections contain specific exceptions to the
+public contract law that apply to certain limited groups of public officials and employees.
+R.C. 2921.42(D) allows employees of public agencies to apply for and receive housing rehabilitation loans
+from their own public agencies. The exception does not apply to elected officials. More information about
+the exception can be found in Advisory Opinion 95-007.
+R.C. 2921.42(G) applies to township trustees in small townships, for contracts that are under $5,000 a
+year.
+Legal Officers (R.C. 2921.42(F)): Under this section, prosecuting attorneys and chief municipal legal
+officers are exempted from some of the Ethics Law, and are permitted to hire their business associates.
+This section is parallel to the prohibition in R.C. 102.03(K), which exempts legal officers from the
+provisions in the conflict of interest law. The application of this exception is spelled out more fully in R.C.
+2921.421.
+
+22
+Example: The adult daughter of a regional transit authority employee has applied to
+become a bus driver. The regional transit authority can hire the employee's daughter, but
+the employee cannot take any action to get the job for his daughter. If she is hired, the
+employee cannot use his position in any way to get any employment benefits, such as
+raises or promotions, for his family member.
+More information about nepotism restrictions can be found in Advisory Opinion 2010-03
+and in the Public Jobs and Family Members chapter of the Public Contracts Fact Sheet.
+Chapter 10
+Public Jobs and Family Members (R.C. 2921.42(A)(1))
+Whenever a public agency hires an employee, that employment is a "public contract." A public official
+or employee is prohibited from hiring a family member or using his or her position in any way to secure
+employment of a family member. An official or employee cannot hire these family members, regardless of
+whether they live in the same household with the official or employee:
+• Spouse;
+• Domestic partner;
+• Parents or grandparents;
+• Children or grandchildren;
+• Siblings; and
+• Step-children or step-parents.
+An official or employee also cannot hire these family members if they live in the same household with the
+official or employee:
+• Uncles and aunts;
+• Cousins;
+• Nieces and nephews;
+• In-laws; and
+• Anyone else related to the official or employee by blood or by marriage.
+
+23
+More information about these restrictions can be found in the Public Jobs and Family
+Members chapter of the Public Contracts Fact Sheet.
+There are more specific rules that apply when an official's or employee's minor child is applying for
+employment with the agency.
+Void and Unenforceable (R�C� 2921�42(H)): This section establishes that contracts and investments in
+which an official, or the official's family members or business associates, have an interest in violation of
+R.C. 2921.42(A) are void and unenforceable.
+Use of Position to Secure Benefit (R.C. 102.03(D)): The conflict of interest law prohibits a public official
+or employee from using or authorizing the use of his or her public position to get a benefit for him or
+herself or for anyone else with whom he or she is closely connected. The law also prohibits the official or
+employee from using his or her public position to avoid a detriment for the official or employee or closely
+connected person. This means that a public official or employee cannot act on a matter before his or her
+public agency if the matter definitely and directly affects:
+• The official or employee;
+• One of the official's or employee's family members; or
+• One of the official's or employee's business associates.
+
+24
+Advisory Opinion 97-001
+Example: A city firefighter who is next on a promotion list cannot offer to pay a person who
+currently holds the position as an incentive to retire before the promotion list expires.
+More information about this restriction can be found in Advisory Opinion 2011-05 and the
+Supplemental Compensation chapter of the Gifts and Other Things of Value Fact Sheet.
+Example: A park district employee is responsible for removing fallen limbs and trees from
+park and adjoining property following storms. The employee is prohibited from accepting a
+gift, money, or any other benefit from an owner of adjoining property for removing a fallen
+park-owned tree from that person's property.
+Chapter 11
+Supplemental Compensation (R.C. 2921.43)
+Supplemental Compensation (R�C� 2921�43(A)(1)): This section prohibits a public official or employee
+from soliciting or accepting compensation from any source other than his or her public employer for the
+performance of his or her public duties. A private party also cannot promise or give a public official or
+employee compensation for performing his or her public duties.
+Securing or preferring employment (R�C� 2921�43(B)): A public servant cannot solicit or accept, and no
+one can give a public servant, anything of value to appoint, secure, promote, or otherwise affect material
+aspects of any person's public employment.
+Criminal Offenses (R.C. 2921.43(D)): This section establishes that violations of R.C. 2921.43 are
+criminal offenses and establishes the levels of the offenses.
+Disqualification (R.C. 2921.43(E)): This section states that any person who is convicted of a violation of
+R.C. 2921.43 will be disqualified from public office, public employment, or any position of public trust, for
+seven years from the date of the conviction.
+
+25
+Advisory Opinion 2002-03
+Chapter 12
+Election Related Issues (R.C. 2921.43(C) and (F); R.C. 102.03(G))
+The Ethics Commission does not have any jurisdiction over campaign finance or elections laws or
+rules in Ohio. For guidance on these types of questions, you should contact the Ohio Election Integrity
+Commission. There are, however, three provisions in the Ethics Law that address campaign contributions.
+Coercing Campaign Contributions (R�C� 2921�43(C)): This section prohibits any person from coercing
+campaign contributions for any candidate, campaign committee, legislative campaign committee, or PAC
+in return for appointing, securing employment, promoting, or otherwise affecting any material aspects of
+any person's public employment.
+Voluntary Campaign Contributions (R.C. 2921.43(F)): This section makes it clear that a person can
+make voluntary campaign contributions to any person or campaign fund.
+Ordinary Campaign Contributions (R.C. 102.03(G)): Ordinary campaign contributions given to an
+elected official are not prohibited, even where a nexus exists between the public office and the contributor.
+However, where there is evidence of wrongdoing as set forth in R.C. 102.03(G), in connection with a
+campaign contribution, and a nexus exists between the officer and the contributor, the conflict of interest
+protections set forth in R.C. 102.03(D), (E), and (F) will apply to the parties to the contribution.
+
+26
+Chapter 13
+Restrictions (R.C. 102.99)
+The final section of Chapter 102 establishes the restrictions for any person who violates the Ethics
+Law and related statutes. All of the provisions of the Ethics Law are criminal prohibitions. Most of the
+provisions are first-degree misdemeanors, with a maximum fine of $1000, a maximum jail term of six
+months, or both. However, two of the public contract prohibitions are fourth-degree felonies, with a
+maximum fine of $5000, a maximum prison term of 18 months, or both. A person who is convicted of
+receiving supplemental compensation will be barred from holding public office, public employment, or any
+position of public trust for seven years.
+
+27
+Updated 1/2026
+Conclusion
+Every public agency must give each official or employee who serves the agency a copy of the Ohio Ethics
+Law. This overview is intended to give public officials and employees some basic information about how
+the law applies to them. The overview briefly summarizes each provision of the law and, when available,
+provides examples of the restrictions and links to additional resources.
+This overview is not intended to substitute for the Ethics Law or for an advisory opinion of the Ohio Ethics
+Commission. For guidance on a specific situation, please contact the Commission at (614) 466-7090.
+The Ohio Ethics Commission
+30 West Spring Street
+Columbus, Ohio 43215-2256
+Phone: (614) 466-7090
+Fax: (614) 466-8368
+www.ethics.ohio.gov

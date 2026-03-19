@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+
+# Environment files — never commit secrets
+.env.local
+.env.*.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Scripts compiled output
+.scripts-out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Ingestion pipeline intermediate artifacts — regeneratable via npm run ingest:full.
+# data/chunks/  — raw JSONL chunk files produced by the chunking step.
+# NOT excluded:  data/index.json — the compiled embedding index MUST be committed
+#                so that Vercel has it at runtime without a build-time ingest step.
+#                Re-run `npm run ingest` locally and commit after policy changes.
+data/chunks/

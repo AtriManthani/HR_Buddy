@@ -1,0 +1,16 @@
+# Normalize line endings to LF in the repository.
+# Windows developers get CRLF in their working tree via checkout.
+* text=auto eol=lf
+
+# Treat binary files as binary — never modify line endings.
+*.pdf binary
+*.png binary
+*.svg binary
+*.ico binary
+*.jpg binary
+*.jpeg binary
+*.woff binary
+*.woff2 binary
+
+# Lock file should stay as-is to avoid diff noise.
+package-lock.json text eol=lf

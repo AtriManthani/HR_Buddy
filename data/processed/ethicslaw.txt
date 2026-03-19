@@ -1,0 +1,1390 @@
+--- PAGE 1 ---
+Ohio Ethics Law
+and Related Statutes
+
+ The Ohio Ethics Commission
+
+ Merom Brachman, Chairman
+ Mark Vander Laan, Vice Chairman
+ Megan Kelley
+ Marty Ross-Dolen
+ Christian H. Stickan
+ Elizabeth E. Tracy
+
+ Paul M. Nick, Executive Director
+
+                 January 2026
+
+TABLE OF CONTENTS
+
+The Ohio Ethics Law:  Revised Code Chapter 102.
+
+R.C. 102.01     Definitions .....................................................................................................  1
+
+R.C. 102.02     Financial Disclosure ......................................................................................  2
+
+R.C. 102.021   Post-Employment Disclosure  .......................................................................  7
+
+R.C. 102.022   Financial Disclosure - Limited  .....................................................................  9
+
+R.C. 102.03     Post-Employment, Conflicts of Interest  .......................................................  9
+
+R.C. 102.031   Gifts - Members of the General Assembly ................................................... 13
+
+R.C. 102.04     Representation, Sales of Goods and Services  .............................................. 14
+
+R.C. 102.05     Ethics Commission, Creation and Duties  .................................................... 15
+
+R.C. 102.06     Ethics Commission, Investigative Authority  ............................................... 15
+
+R.C. 102.07     Ethics Commission, Confidentiality  ............................................................ 17
+
+R.C. 102.08     Opinions, Immunity, Education [H.B. 285]  ................................................. 18
+
+R.C. 102.08*   Opinions, Immunity, Education [H.B. 492]  ................................................. 18
+
+R.C. 102.09     Responsibilities - Forms and Law  ................................................................ 19
+
+R.C. 102.99     Penalties ........................................................................................................ 20
+
+RELATED STATUTES:
+
+R.C. 2921.01    Definitions .................................................................................................... 21
+
+R.C. 2921.42    Public Contract Restrictions  ........................................................................ 22
+
+R.C. 2921.421  Legal Business Associate Exemption  ......................................................... 23
+
+R.C. 2921.43    Supplemental Compensation  ....................................................................... 24
+
+THE OHIO ETHICS LAW: CHAPTER 102. OF THE REVISED CODE
+
+Section 102.01  As used in this chapter:
+
+ (A)    "Compensation"  means  money,  thing  of  value,  or  financial  benefit.    "Compensation"  does  not
+include reimbursement for actual and necessary expenses incurred in the performance of official duties.
+ (B)  "Public official or employee" means any person who is elected or appointed to an office or is an
+employee of any public agency.  "Public official or employee" does not include a person elected or appointed to
+the  office  of  precinct,  ward,  or  district  committee  member  under  section  3517.03  of  the  Revised  Code,  any
+presidential elector, or any delegate to a national convention.  "Public official or employee" does not include a
+person  who  is  a  teacher,  instructor,  professor,  or  other  kind  of  educator  whose  position  does  not  involve  the
+performance of, or authority to perform, administrative or supervisory functions.
+ (C)(1)  "Public  agency"  means  the  general  assembly,  all  courts,  any  department,  division,  institution,
+board, commission, authority, bureau or other instrumentality of the state, a county, city, village, or township,
+the five state retirement systems, or any other governmental entity.
+ (2)  Notwithstanding  any  contrary  provision  of  division  (C)  (3)(a)  of  this  section,  "public  agency"
+includes a regional council of governments established under Chapter 167. of the Revised Code.
+ (3) "Public agency" does not include either of the following:
+ (a) A department, division, institution, board, commission, authority, or other instrumentality of the state
+or a county, municipal corporation, township, or other governmental entity that functions exclusively for cultural,
+educational,  historical,  humanitarian,  advisory,  or  research  purposes;  that  does  not  expend  more  than  ten
+thousand  dollars  per  calendar  year,  excluding  salaries  and  wages  of  employees;  and  whose  members  are
+uncompensated;
+ (b) The nonprofit corporation formed under section 187.01
+ of the Revised Code.
+ (D)  "Immediate family" means a spouse residing in the person's household and any dependent child.
+ (E)  "Income" includes gross income as defined and used in the "Internal Revenue Code of 1986," 100
+Stat. 2085, 26 U.S.C. 1, as amended, interest and dividends on obligations or securities of any state or of any
+political subdivision or authority of any state or political subdivision, and interest or dividends on obligations of
+any authority, commission, or instrumentality of the United States.
+ (F)  Except as otherwise provided in division (A) of section 102.08 of the Revised Code, "appropriate
+ethics commission" means:
+ (1)    For  matters  relating  to  members  of  the  general  assembly,  employees  of  the  general  assembly,
+employees  of  the  legislative  service  commission,  and  candidates  for  the  office  of  member  of  the  general
+assembly, and  public  members  appointed  to  the  Ohio  constitutional  modernization  commission  under  section
+103.63 of the Revised Code, the joint legislative ethics committee;
+ (2)  For matters relating to judicial officers and employees, and candidates for judicial office, the board
+of commissioners on grievances and discipline of the supreme court;
+ (3)  For matters relating to all other persons, the Ohio ethics commission.
+ (G)  "Anything of value" has the same meaning as provided in section 1.03 of the Revised Code and
+includes, but is not limited to, a contribution as defined in section 3517.01 of the Revised Code.
+ (H)  "Honorarium" means any payment made in consideration for any speech given, article published,
+or attendance at any public or private conference, convention, meeting, social event, meal, or similar gathering.
+"Honorarium" does not include ceremonial gifts or awards that have insignificant monetary value; unsolicited
+gifts of nominal value or trivial items of informational value; or earned income from any person, other than a
+legislative agent, for personal services that are customarily provided in connection with the practice of a bona
+fide business, if that business initially began before the public official or employee conducting that business was
+elected or appointed to the public official's or employee's office or position of employment.
+ (I)  "Employer" means any person who, directly or indirectly, engages an executive agency lobbyist or
+legislative agent.
+ (J)  "Executive agency decision," "executive agency lobbyist," and "executive agency lobbying activity"
+have the same meanings as in section 121.60 of the Revised Code.
+ (K)  "Legislation," "legislative agent," "financial transaction," and "actively advocate" have the same
+meanings as in section 101.70 of the Revised Code.
+
+2
+
+ (L)  "Expenditure" has the same meaning as in section 101.70 of the Revised Code when used in relation
+to activities of a legislative agent, and the same meaning as in section 121.60 of the Revised Code when used in
+relation to activities of an executive agency lobbyist.
+
+Sec. 102.02.
+(A)(1) Except as otherwise provided in division (H) of this section, all of the following shall file with
+the appropriate ethics commission the disclosure statement described in this division on a form prescribed by
+the appropriate commission: every person who is elected to or is a candidate for a state, county, or city office
+and every person who is appointed to fill a vacancy for an unexpired term in such an elective office; all
+members of the state board of education; the director, assistant directors, deputy directors, division chiefs, or
+persons of equivalent rank of any administrative department of the state; the president or other chief
+administrative officer of every state institution of higher education as defined in section 3345.011 of the
+Revised Code; the executive director and the members of the capitol square review and advisory board
+appointed or employed pursuant to section 105.41 of the Revised Code; all members of the Ohio casino control
+commission, the executive director of the commission, all professional employees of the commission, and all
+technical employees of the commission who perform an internal audit function; the individuals set forth in
+division (B)(2) of section 187.03 of the Revised Code; the chief executive officer and the members of the
+board of each state retirement system; each employee of a state retirement board who is a state retirement
+system investment officer licensed pursuant to section 1707.163 of the Revised Code; the members of the Ohio
+retirement study council appointed pursuant to division (C) of section 171.01 of the Revised Code; employees
+of the Ohio retirement study council, other than employees who perform purely administrative or clerical
+functions; the administrator of workers' compensation and each member of the bureau of workers'
+compensation board of directors; the bureau of workers' compensation director of investments; the chief
+investment officer of the bureau of workers' compensation; all members of the board of commissioners on
+grievances and discipline of the supreme court and the ethics commission created under section 102.05 of the
+Revised Code; every business manager, treasurer, or superintendent of a city, local, exempted village, joint
+vocational, or cooperative education school district or an educational service center; every person who is
+elected to or is a candidate for the office of member of a board of education of a city, local, exempted village,
+joint vocational, or cooperative education school district or of a governing board of an educational service
+center that has a total student count of twelve thousand or more as most recently determined by the department
+of education pursuant appointed to the board of education of a municipal school district pursuant to division
+(B) or (F) of section 3311.71 of the Revised Code; all members of the board of directors of a sanitary district
+that is established under Chapter 6115. of the Revised Code and organized wholly for the purpose of providing
+a water supply for domestic, municipal, and public use, and that includes two municipal corporations in two
+counties; every public official or employee who is paid a salary or wage in accordance with schedule C of
+section 124.15 or schedule E-2 of section 124.152 of the Revised Code; members of the board of trustees and
+the executive director of the southern Ohio agricultural and community development foundation; all members
+appointed to the Ohio livestock care standards board under section 904.02 of the Revised Code; all
+entrepreneurs in residence assigned by the LeanOhio office in the department of administrative services under
+section 125.65 of the Revised Code and every other public official or employee who is designated by the
+appropriate ethics commission pursuant to division (B) of this section.
+(2) The disclosure statement shall include all of the following:
+(a) The name of the person filing the statement and each member of the person's immediate family and
+all names under which the person or members of the person's immediate family do business;
+(b)(i) Subject to divisions (A)(2)(b)(ii) and (iii) of this section and except as otherwise provided in
+section 102.022 of the Revised Code, identification of every source of income, other than income from a
+legislative agent identified in division (A)(2)(b)(ii) of this section, received during the preceding calendar year,
+in the person's own name or by any other person for the person's use or benefit, by the person filing the
+statement, and a brief description of the nature of the services for which the income was received. If the person
+filing the statement is a member of the general assembly, the statement shall identify the amount of every
+
+3
+
+source of income received in accordance with the following ranges of amounts: zero or more, but less than one
+thousand dollars; one thousand dollars or more, but less than ten thousand dollars; ten thousand dollars or
+more, but less than twenty-five thousand dollars; twenty-five thousand dollars or more, but less than fifty
+thousand dollars; fifty thousand dollars or more, but less than one hundred thousand dollars; and one hundred
+thousand dollars or more. Division (A)(2)(b)(i) of this section shall not be construed to require a person filing
+the statement who derives income from a business or profession to disclose the individual items of income that
+constitute the gross income of that business or profession, except for those individual items of income that are
+attributable to the person's or, if the income is shared with the person, the partner's, solicitation of services or
+goods or performance, arrangement, or facilitation of services or provision of goods on behalf of the business
+or profession of clients, including corporate clients, who are legislative agents. A person who files the
+statement under this section shall disclose the identity of and the amount of income received from a person
+who the public official or employee knows or has reason to know is doing or seeking to do business of any
+kind with the public official's or employee's agency.
+(ii) If the person filing the statement is a member of the general assembly, the statement shall identify
+every source of income and the amount of that income that was received from a legislative agent during the
+preceding calendar year, in the person's own name or by any other person for the person's use or benefit, by the
+person filing the statement, and a brief description of the nature of the services for which the income was
+received. Division (A)(2)(b)(ii) of this section requires the disclosure of clients of attorneys or persons licensed
+under section 4732.12 of the Revised Code, or patients of persons licensed under section 4731.14 of the
+Revised Code, if those clients or patients are legislative agents. Division (A)(2)(b)(ii) of this section requires a
+person filing the statement who derives income from a business or profession to disclose those individual items
+of income that constitute the gross income of that business or profession that are received from legislative
+agents.
+(iii) Except as otherwise provided in division (A)(2)(b)(iii) of this section, division (A)(2)(b)(i) of this
+section applies to attorneys, physicians, and other persons who engage in the practice of a profession and who,
+pursuant to a section of the Revised Code, the common law of this state, a code of ethics applicable to the
+profession, or otherwise, generally are required not to reveal, disclose, or use confidences of clients, patients,
+or other recipients of professional services except under specified circumstances or generally are required to
+maintain those types of confidences as privileged communications except under specified circumstances.
+Division (A)(2)(b)(i) of this section does not
+require an attorney, physician, or other professional subject to a confidentiality requirement as described in
+division (A)(2)(b)(iii) of this section to disclose the name, other identity, or address of a client, patient, or other
+recipient of professional services if the disclosure would threaten the client, patient, or other recipient of
+professional services, would reveal details of the subject matter for which legal, medical, or professional advice
+or other services were sought, or would reveal an otherwise privileged communication involving the client,
+patient, or other recipient of professional services.
+(c) The name of every corporation on file with the secretary of state that is incorporated in this state or
+holds a certificate of compliance authorizing it to do business in this state, trust, business trust, partnership, or
+association that transacts business in this state in which the person filing the statement or any other person for
+the person's use and benefit had during the preceding calendar year an investment of over one thousand dollars
+at fair market value as of the thirty-first day of December of the preceding calendar year, or the date of
+disposition, whichever is earlier, or in which the person holds any office or has a fiduciary relationship, and a
+description of the nature of the investment, office, or relationship. Division (A)(2)(c) of this section does not
+require disclosure of the name of any bank, savings and loan association, credit union, or building and loan
+association with which the person filing the statement has a deposit or a withdrawable share account.
+(d) All fee simple and leasehold interests to which the person filing the statement holds legal title to or
+a beneficial interest in real property located within the state, excluding the person's residence and property used
+primarily for personal recreation;
+(e) The names of all persons residing or transacting business in the state to whom the person filing the
+statement owes, in the person's own name or in the name of any other person, more than one thousand dollars.
+
+4
+
+Division (A)(2)(e) of this section shall not be construed to require the disclosure of debts owed by the person
+resulting from the ordinary conduct of a business or profession or debts on the person's residence or real
+property used primarily for personal recreation, except that the superintendent of financial institutions shall
+disclose the names of all state-chartered savings and loan associations and of all service corporations subject to
+regulation under division (E)(2) of section 1151.34 of the Revised Code to whom the superintendent in the
+superintendent's own name or in the name of any other person owes any money, and that the superintendent
+and any deputy superintendent of banks shall disclose the names of all state-chartered banks and all bank
+subsidiary corporations subject to regulation under section Am. 1109.44 of the Revised Code to whom the
+superintendent or deputy superintendent owes any money.
+(f) The names of all persons residing or transacting business in the state, other than a depository
+excluded under division (A)(2)(c) of this section, who owe more than one thousand dollars to the person filing
+the statement, either in the person's own name or to any person for the person's use or benefit. Division
+(A)(2)(f) of this section shall not be construed to require the disclosure of clients of attorneys or persons
+licensed under section 4732.12 of the Revised Code, or patients of persons licensed under section 4731.14 of
+the Revised Code, nor the disclosure of debts owed to the person resulting from the ordinary conduct of a
+business or profession.
+(g) Except as otherwise provided in section 102.022 of the Revised Code, the source of each gift of
+over seventy-five dollars, or of each gift of over twenty-five dollars received by a member of the general
+assembly from a legislative agent, received by the person in the person's own name or by any other person for
+the person's use or benefit during the preceding calendar year, except gifts received by will or by virtue of
+section 2105.06 of the Revised Code, or received from spouses, parents, grandparents, children, grandchildren,
+siblings, nephews, nieces, uncles, aunts, brothers-in-law, sisters-in-law, sons-in-law, daughters-in-law, fathers-
+in-law, mothers-in-law, or any person to whom the person filing the statement stands in loco parentis, or
+received by way of distribution from any inter vivos or testamentary trust established by a spouse or by an
+ancestor;
+(h) Except as otherwise provided in section 102.022 of the Revised Code, identification of the source
+and amount of every payment of expenses incurred for travel to destinations inside or outside this state that is
+received by the person in the person's own name or by any other person for the person's use or benefit and that
+is incurred in connection with the person's official duties, except for expenses for travel to meetings or
+conventions of a national or state organization to which any state agency, including, but not limited to, any
+legislative agency or state institution of higher education as defined in section 3345.011 of the Revised Code,
+pays membership dues, or any political subdivision or any office or agency of a political subdivision pays
+membership dues;
+(i) Except as otherwise provided in section 102.022 of the Revised Code, identification of the source of
+payment of expenses for meals and other food and beverages, other than for meals and other food and
+beverages provided at a meeting at which the person participated in a panel, seminar, or speaking engagement
+or at a meeting or convention of a national or state organization to which any state agency, including, but not
+limited to, any legislative agency or state institution of higher education as defined in section 3345.011 of the
+Revised Code, pays membership dues, or any political subdivision or any office or agency of a political
+subdivision pays membership dues, that are incurred in connection with the person's official duties and that
+exceed one hundred dollars aggregated per calendar year; (j) If the disclosure statement is filed by a public
+official or employee described in division (B)(2) of section 101.73 of the Revised Code or division (B)(2) of
+section 121.63 of the Revised Code who receives a statement from a legislative agent, executive agency
+lobbyist, or employer that contains the information described in division (F)(2) of section 101.73 of the
+Revised Code or division (G)(2) of section 121.63 of the Revised Code, all of the nondisputed information
+contained in the statement delivered to that public official or employee by the legislative agent, executive
+agency lobbyist, or employer under division (F)(2) of section 101.73 or (G)(2) of section 121.63 of the Revised
+Code.
+(3) A person may file a statement required by this section in person, by mail, or by electronic means.
+
+5
+
+(4) A person who is required to file a statement under this section shall file that statement according to
+the following deadlines, as applicable:
+(a) Except as otherwise provided in divisions (A)(4)(b), (c), and (d) of this section, the person shall file
+the statement not later than the fifteenth day of May of each year.
+(b) A person who is a candidate for elective office shall file the statement no later than the thirtieth day
+before the primary, special, or general election at which the candidacy is to be voted on, whichever election
+occurs soonest, except that a person who is a write-in candidate shall file the statement no later than the
+twentieth day before the earliest election at which the person's candidacy is to be voted on.
+(c) A person who is appointed to fill a vacancy for an unexpired term in an elective office shall file the
+statement within fifteen days after the person qualifies for office.
+(d) A person who is appointed or employed after the fifteenth day of May, other than a person
+described in division (A)(4)(c) of this section, shall file an annual statement within ninety days after
+appointment or employment.
+(5) No person shall be required to file with the appropriate ethics commission more than one statement
+or pay more than one filing fee for any one calendar year.
+(6) The appropriate ethics commission, for good cause, may extend for a reasonable time the deadline
+for filing a statement under this section.
+(7) A statement filed under this section is subject to public inspection at locations designated by the
+appropriate ethics commission except as otherwise provided in this section.
+(B) The Ohio ethics commission, the joint legislative ethics committee, and the board of
+commissioners on grievances and discipline of the supreme court, using the rule-making procedures of Chapter
+119. of the Revised Code, may require any class of public officials or employees under its jurisdiction and not
+specifically excluded by this section whose positions involve a substantial and material exercise of
+administrative discretion in the formulation of public policy, expenditure of public funds, enforcement of laws
+and rules of the state or a county or city, or the execution of other public trusts, to file an annual statement
+under division (A) of this section. The appropriate ethics commission shall send the public officials or
+employees written notice of the requirement not less than thirty days before the applicable filing deadline
+unless the public official or employee is appointed after that date, in which case the notice shall be sent within
+thirty days after appointment, and the filing shall be made not later than ninety days after appointment.
+Disclosure statements filed under this division with the Ohio ethics commission by members of boards,
+commissions, or bureaus of the state for which no compensation is received other than reasonable and
+necessary expenses shall be kept confidential. Disclosure statements filed with the Ohio ethics commission
+under division (A) of this section by business managers, treasurers, and superintendents of city, local,
+exempted village, joint vocational, or cooperative education school districts or educational service centers shall
+be kept confidential, except that any person conducting an audit of any such school district or educational
+service center pursuant to section 115.56 or Chapter 117. of the Revised Code may examine the disclosure
+statement of any business manager, treasurer, or superintendent of that school district or educational service
+center. Disclosure statements filed with the Ohio ethics commission under division (A) of this section by the
+individuals set forth in division (B)(2) of section 187.03 of the Revised Code shall be kept confidential. The
+Ohio ethics commission shall examine each disclosure statement required to be kept confidential to determine
+whether a potential conflict of interest exists for the person who filed the disclosure statement. A potential
+conflict of interest exists if the private interests of the person, as indicated by the person's disclosure statement,
+might interfere with the public interests the person is required to serve in the exercise of the person's authority
+and duties in the person's office or position of employment. If the commission determines that a potential
+conflict of interest exists, it shall notify the person who filed the disclosure statement and shall make the
+portions of the disclosure statement that indicate a potential conflict of interest subject to public inspection in
+the same manner as is provided for other disclosure statements. Any portion of the disclosure statement that the
+commission determines does not indicate a potential conflict of interest shall be kept confidential by the
+commission and shall not be made subject to public inspection, except as is necessary for the enforcement of
+Chapters 102. and 2921. of the Revised Code and except as otherwise provided in this division.
+
+6
+
+(C) No person shall knowingly fail to file, on or before the applicable filing deadline established under
+this section, a statement that is required by this section.
+(D) No person shall knowingly file a false statement that is required to be filed under this section.
+(E)(1) Except as provided in divisions (E)(2) and (3) of this section, the statement required by division
+(A) or (B) of this section shall be accompanied by a filing fee of sixty dollars.
+(2) The statement required by division (A) of this section shall be accompanied by the following filing
+fee to be paid by the person who is elected or appointed to, or is a candidate for, any of the following
+offices:
+For state office, except member of the state board of education     $95
+For office of member of general assembly     $40
+For county office        $60
+For city office         $35
+For office of member of the state board of education    $35
+For office of member of a city, local, exempted village,
+or cooperative education board of education or educational
+service center governing board       $30
+For position of business manager, treasurer, or superintendent
+of a city, local, exempted village, joint vocational, or cooperative
+education school district or educational service center    $30
+(3) No judge of a court of record or candidate for judge of a court of record, and no referee or
+magistrate serving a court of record, shall be required to pay the fee required under division (E)(1) or
+(2) or (F) of this section.
+(4) For any public official who is appointed to a nonelective office of the state and for any employee
+who holds a nonelective position in a public agency of the state, the state agency that is the primary
+employer of the state official or employee shall pay the fee required under division (E)(1) or (F) of this
+section.
+(F) If a statement required to be filed under this section is not filed by the date on which it is required
+to be filed, the appropriate ethics commission shall assess the person required to file the statement a
+late filing fee of ten dollars for each day the statement is not filed, except that the total amount of the
+late filing fee shall not exceed two hundred fifty dollars.
+(G)(1) The appropriate ethics commission other than the Ohio ethics commission and the joint
+legislative ethics committee shall deposit all fees it receives under divisions (E) and (F) of this section
+into the general revenue fund of the state.
+(2) The Ohio ethics commission shall deposit all receipts, including, but not limited to, fees it receives
+under divisions (E) and (F) of this section, investigative or other fees, costs, or other funds it receives
+as a result of court orders, and all moneys it receives from settlements under division (G) of section
+102.06 of the Revised Code, into the Ohio ethics commission fund, which is hereby created in the state
+treasury. All moneys credited to the fund shall be used solely for expenses related to the operation and
+statutory functions of the commission.
+(3) The joint legislative ethics committee shall deposit all receipts it receives from the payment of
+financial disclosure statement filing fees under divisions (E) and (F) of this section into the joint
+legislative ethics committee investigative and financial disclosure fund.
+(H) Division (A) of this section does not apply to a person elected or appointed to the office of
+precinct, ward, or district committee member under Chapter 3517. of the Revised Code; a presidential
+elector; a delegate to a national convention; village or township officials and employees; any physician
+or psychiatrist who is paid a salary or wage in accordance with schedule C of section 124.15 or
+schedule E-2 of section 124.152 of the Revised Code and whose primary duties do not require the
+exercise of administrative discretion; or any member of a board, commission, or bureau of any county
+or city who receives less than one thousand dollars per year for serving in that position.
+
+7
+
+Sec. 102.021
+
+ (A)(1)    For  the  twenty-four  month  period  immediately  following  the  end  of  the  former  state  elected
+officer's or staff member's service or public employment, except as provided in division (B) or (D) of this section,
+each former state elected officer or staff member who filed or was required to file a disclosure statement under
+section 102.02 of the Revised Code shall file, on or before the deadlines specified in division (D) of this section,
+with the joint legislative ethics committee a statement that shall include the information described in divisions
+(A)(2), (3), (4), and (5) of this section, as applicable. The statement shall be filed on a form and in the manner
+specified by the joint legislative ethics committee. This division does not apply to a state elected officer or staff
+member who filed or was required to file a disclosure statement under section 102.02 of the Revised Code, who
+leaves service or public employment, and who takes another position as a state elected officer or staff member
+who files or is required to file a disclosure statement under that section.
+ No person shall fail to file, on or before the deadlines specified in division (D) of this section, a statement
+that is required by this division.
+ (2)  The statement referred to in division (A)(1) of this section shall describe the source of all income
+received, in the former state elected officer's or staff member's own name or by any other person for the person's
+use or benefit, and briefly describe the nature of the services for which the income was received if the source of
+the income was any of the following:
+(a) An executive agency lobbyist or a legislative agent;
+ (b) The employer of an executive agency lobbyist or legislative agent, except that this division does not
+apply if the employer is any state agency or political subdivision of the state;
+ (c) Any entity, association, or business that, at any time during the two immediately preceding calendar
+years, was awarded one or more contracts by one or more state agencies that in the aggregate had a value of one
+hundred thousand dollars or more, or bid on one or more contracts to be awarded by one or more state agencies
+that in the aggregate had a value of one hundred thousand dollars or more.
+ (3) If the former state elected officer or staff member received no income as described in division (A)(2)
+of this section, the statement referred to in division (A)(1) of this section shall indicate that fact.
+ (4) If the former state elected officer or staff member directly or indirectly made, either separately or in
+combination  with  another,  any  expenditure  or  gift  for  transportation,  lodging,  or  food  or  beverages  to,  at  the
+request of, for the benefit of, or on behalf of any public officer or employee, and if the former state elected officer
+or staff member would be required to report the expenditure or gift in a statement under sections 101.70 to 101.79
+or sections 121.60 to 121.69 of the Revised Code, whichever is applicable, if the former state elected officer or
+staff member was a legislative agent or executive agency lobbyist at the time the expenditure or gift was made,
+the  statement  referred  to  in  division  (A)(1)  of  this  section  shall  include  all  information  relative  to  that  gift  or
+expenditure that would be required in a statement under sections 101.70 to 101.79 or sections 121.60 to 121.69
+of the Revised Code if the former state elected officer or staff member was a legislative agent or executive agency
+lobbyist at the time the expenditure or gift was made.
+ (5) If the former state elected officer or staff member made no expenditure or gift as described in division
+(A)(4) of this section, the statement referred to in division (A)(1) of this section shall indicate that fact.
+ (B)  If,  at  any  time  during  the  twenty-four  month  period  immediately  following  the  end  of  the  former
+state  elected  officer's  or  staff  member's  service  or  public  employment,  a  former  state  elected  officer  or  staff
+member  who  filed  or  was  required  to  file  a  disclosure  statement  under  section  102.02  of  the  Revised  Code
+becomes  a  legislative  agent  or  an  executive  agency  lobbyist,  the  former  state  elected  officer  or  staff  member
+shall comply with all registration and filing requirements set forth in sections 101.70 to 101.79 or sections 121.60
+to 121.69 of the Revised Code, whichever is applicable, and, the former state elected officer or staff member also
+shall file a statement under division (A)(1) of this section except that the statement filed under division (A)(1) of
+this section does not need to include information regarding any income source, expenditure, or gift to the extent
+that  that  information  was  included  in  any  registration  or  statement  filed  under  sections  101.70  to  101.79  or
+sections 121.60 to 121.69 of the Revised Code.
+ (C)  Except as otherwise provided in this division, division (A)(2) of this section applies to attorneys,
+physicians, and other persons who engage in the practice of a profession and who, pursuant to a section of the
+Revised Code, the common law of this state, a code of ethics applicable to the profession, or otherwise, generally
+are  required  not  to  reveal,  disclose,  or  use  confidences  of  clients,  patients,  or  other  recipients  of  professional
+services except under specified circumstances or generally are required to maintain those types of confidences
+
+8
+
+as  privileged  communications  except  under  specified  circumstances.  Division  (A)(2)  of  this  section  does  not
+require an attorney, physician, or other professional subject to a confidentiality requirement as described in this
+division  to  disclose  the  name,  other  identity,  or  address  of  a  client,  patient,  or  other  recipient  of  professional
+services  if  the  disclosure  would  threaten  the  client,  patient,  or  other  recipient  of  professional  services,  would
+reveal details of the subject matter for which legal, medical, or professional advice or other services were sought,
+or  would  reveal  an  otherwise  privileged  communication  involving  the  client,  patient,  or  other  recipient  of
+professional services. Division (A)(2) of this section does not require an attorney, physician, or other professional
+subject to a confidentiality requirement as described in this division to disclose in the brief description of the
+nature of services required by division (A)(2) of this section any information pertaining to specific professional
+services rendered for a client, patient, or other recipient of professional services that would reveal details of the
+subject  matter  for  which  legal,  medical,  or  professional  advice  was  sought  or  would  reveal  an  otherwise
+privileged communication involving the client, patient, or other recipient of professional services.
+ (D)(1)  Each state elected officer or staff member who filed or was required to file a disclosure statement
+under  section  102.02  of  the  Revised  Code  and  who  leaves  public  service  or  public  employment  shall  file  an
+initial  statement  under  division  (A)(1)  of  this  section  not  later  than  the  day  on  which  the  former  state  elected
+officer or staff member leaves public service or public employment. The initial statement shall specify whether
+the person will, or will not, receive any income from a source described in division (A)(2)(a), (b), or (c) of this
+section.
+ If a person files an initial statement under this division that states that the person will receive income
+from a source described in division (A)(2)(a), (b), or (c) of this section, the person is required to file statements
+under division (A)(2), (3), (4), or (5) of this section at the times specified in division (D)(2) of this section.
+ If a person files an initial statement under this division that states that the person will not receive income
+from  a  source  described  in  division  (A)(2)(a),  (b),  or  (c)  of  this  section,  except  as  otherwise  provided  in  this
+division, the person is not required to file statements under division (A)(2), (4), or (5) of this section or to file
+subsequent  statements  under  division  (A)(3)  of  this  section.  If  a  person  files  an  initial  statement  under  this
+division that states that the person will not receive income from a source described in division (A)(2)(a), (b), or
+(c) of this section, and, subsequent to the filing of that initial statement, the person receives any income from a
+source described in division (A)(2)(a), (b), or (c) of this section, the person within ten days shall file a statement
+under  division  (A)(2)  of  this  section  that  contains  the  information  described  in  that  division,  and  the  person
+thereafter  shall  file  statements  under  division  (A)(2),  (3),  (4),  or  (5)  of  this  section  at  the  times  specified  in
+division (D)(2) of this section.
+ (2) After the filing of the initial statement under division (D)(1) of this section, each person required to
+file a statement under division (A)(2), (3), (4), or (5) of this section shall file it on or before the last calendar day
+of January, May, and September. The statements described in divisions (A)(2), (3), and (5) of this section shall
+relate to the sources of income the person received in the immediately preceding filing period from each source
+of income in each of the categories listed in division (A)(2) of this section. The statement described in division
+(A)(4) of this section shall include any information required to be reported regarding expenditures and gifts of
+the  type  described  in  division  (A)(4)  of  this  section  occurring  since  the  filing  of  the  immediately  preceding
+statement.
+ If, pursuant to this division, a person files a statement under division (A)(2) of this section, the person is
+required to file statements under division (A)(4) of this section, and subsequent statements under division (A)(2),
+(3), or (5) of this section, at the times specified in this division. In addition, if, subsequent to the filing of the
+statement  under  division  (A)(2)  of  this  section,  the  person  receives  any  income  from  a  source  described  in
+division (A)(2)(a), (b), or (c) of this section that was not listed on the statement filed under division (A)(2) of
+this section, the person within ten days shall file a statement under division (A)(2) of this section that contains
+the information described in that division regarding the new income source.
+ If, pursuant to this division, a person files a statement under division (A)(3) of this section, except as
+otherwise provided in this division, the person thereafter is not required to file statements under division (A)(2),
+(4), or (5) of this section, or to file subsequent statements under division (A)(3) of this section. If, subsequent to
+the filing of the statement under division (A)(3) of this section, the person receives any income from a source
+described in division (A)(2)(a), (b), or (c) of this section, the person within ten days shall file a statement under
+division (A)(2) of this section that contains the information described in that division regarding the new income
+source,  and  the  person  thereafter  shall  file  statements  under  division  (A)(4)  of  this  section,  and  subsequent
+statements under division (A)(2) or (3) of this section, at the times specified in this division.
+
+9
+
+(3) No fee shall be required for filing a statement under this section, except that the joint legislative
+ethics committee may charge late fees in the same manner as specified in division (G) of section 101.72 of the
+Revised Code.
+ (E)  Any state elected officer or staff member who filed or was required to file a disclosure statement
+under section 102.02 of the Revised Code and who leaves public service or public employment shall provide a
+forwarding address to the officer's or staff member's last employer, and the employer shall provide the person's
+name and address to the joint legislative ethics committee. The former elected state officer or staff member shall
+provide updated forwarding addresses as necessary to the joint legislative ethics committee during the twenty-
+four month period during which division (A)(1) of this section applies. The public agency or appointing authority
+that  was  the  last  employer  of  a  person  required  to  file  a  statement  under  division  (A)(2)  of  this  section  shall
+furnish to the person a copy of the form needed to complete the initial statement required under division (D)(1)
+of this section.
+ (F)    During  the  twenty-four  month  period  immediately  following  the  end  of  the  former  state  elected
+officer's or staff member's service or public employment, no person required to file a statement under this section
+shall receive from a source described in division (A)(2)(a), (b), or (c) of this section, and no source described in
+division (A)(2)(a), (b), or (c) of this section shall pay to that person, any compensation that is contingent in any
+way upon the introduction, modification, passage, or defeat of any legislation or the outcome of any executive
+agency decision.
+ (G)  As used in this section "state elected officer or staff member" means any elected officer of this state,
+any  staff,  as  defined  in  section  101.70  of  the  Revised  Code,  or  any  staff,  as  defined  in  section  121.60  of  the
+Revised Code.
+
+Sec. 102.022
+
+Each person who is an officer or employee of a political subdivision, who receives compensation of
+less than sixteen thousand dollars a year for holding an office or position of employment with that political
+subdivision, and who is required to file a statement under section 102.02 of the Revised Code; each member of
+the board of trustees of a state institution of higher education as defined in section 3345.011 of the Revised
+Code who is required to file a statement under section 102.02 of the Revised Code; and each individual set
+forth in division (B)(2) of section 187.03 of the Revised Code who is required to file a statement under section
+102.02 of the Revised Code, shall include in that statement, in place of the information required by divisions
+(A)(2)(b), (g), (h), and (i) of that section, the following information:
+ (A)  Exclusive of reasonable expenses, identification of every source of income over five hundred dollars
+received during the preceding calendar year, in the officer's or employee's own name or by any other person for
+the officer's or employee's use or benefit, by the person filing the statement, and a brief description of the nature
+of the services for which the income was received.  This division shall not be construed to require the disclosure
+of clients of attorneys or persons licensed under section 4732.12 or 4732.15 of the Revised Code or patients of
+persons certified under section 4731.14 of the Revised Code.  This division shall not be construed to require a
+person filing the statement who derives income from a business or profession to disclose the individual items of
+income that constitute the gross income of the business or profession.
+ (B)    The  source  of  each  gift  of  over  five  hundred  dollars  received  by  the  person  in  the  officer's  or
+employee's own name or by any other person for the officer's or employee's use or benefit during the preceding
+calendar year, except gifts received by will or by virtue of section 2105.06 of the Revised Code, received from
+parents, grandparents, children, grandchildren, siblings, nephews, nieces, uncles, aunts, brothers-in-law, sisters-
+in-law, sons-in-law, daughters-in-law, fathers-in-law, mothers-in-law, or any person to whom the person filing
+the  statement  stands  in  loco  parentis,  or  received  by  way  of  distribution  from  any  inter  vivos  or  testamentary
+trust established by a spouse or by an ancestor.
+
+Section 102.03
+
+ (A)(1)  No present or former public official or employee shall, during public employment or service or
+for twelve months thereafter, represent a client or act in a representative capacity for any person on any matter
+in which the public official or employee personally participated as a public official or employee through decision,
+
+10
+
+approval, disapproval, recommendation, the rendering of advice, investigation, or other substantial exercise of
+administrative discretion.
+ (2)    For  twenty-four  months  after  the  conclusion  of  service,  no  former  commissioner  or  attorney
+examiner of the public utilities commission shall represent a public utility, as defined in section 4905.02 of the
+Revised Code, or act in a representative capacity on behalf of such a utility before any state board, commission,
+or agency.
+ (3)  For twenty-four months after the conclusion of employment or service, no former public official or
+employee who personally participated as a public official or employee through decision, approval, disapproval,
+recommendation,  the  rendering  of  advice,  the  development  or  adoption  of  solid  waste  management  plans,
+investigation, inspection, or other substantial exercise of administrative discretion under Chapter 343. or 3734.
+of  the  Revised  Code  shall  represent  a  person  who  is  the  owner  or  operator  of  a  facility,  as  defined  in  section
+3734.01 of the Revised Code, or who is an applicant for a permit or license for a facility under that chapter, on
+any matter in which the public official or employee personally participated as a public official or employee.
+ (4)  For a period of one year after the conclusion of employment or service as a member or employee of
+the  general  assembly,  no  former  member  or  employee  of  the  general  assembly  shall  represent,  or  act  in  a
+representative capacity for, any person on any matter before the general assembly, any committee of the general
+assembly,  or  the  controlling  board.    Division  (A)(4)  of  this  section  does  not  apply  to  or  affect  a  person  who
+separates from service with the general assembly on or before December 31, 1995.  As used in division (A)(4)
+of this section "person" does not include any state agency or political subdivision of the state.
+ (5)    As  used  in  divisions  (A)(1),  (2),  and  (3)  of  this  section,  "matter"  includes  any  case,  proceeding,
+application, determination, issue, or question, but does not include the proposal, consideration, or enactment of
+statutes, rules, ordinances, resolutions, or charter or constitutional amendments.  As used in division (A)(4) of
+this section, "matter" includes the proposal, consideration, or enactment of statutes, resolutions, or constitutional
+amendments.  As used in division (A) of this section, "represent" includes any formal or informal appearance
+before, or any written or oral communication with, any public agency on behalf of any person.
+ (6)  Nothing contained in division (A) of this section shall prohibit, during such period, a former public
+official or employee from being retained or employed to represent, assist, or act in a representative capacity for
+the  public  agency  by  which  the  public  official  or  employee  was  employed  or  on  which  the  public  official  or
+employee served.
+ (7)    Division  (A)  of  this  section  shall  not  be  construed  to  prohibit  the  performance  of  ministerial
+functions,  including,  but  not  limited  to,  the  filing  or  amendment  of  tax  returns,  applications  for  permits  and
+licenses, incorporation papers, and other similar documents.
+ (8)  Division  (A)  of  this  section  does  not  prohibit  a  nonelected  public  official  or  employee  of  a  state
+agency, as defined in section 1.60 of the Revised Code, from becoming a public official or employee of another
+state agency. Division (A) of this section does not prohibit such an official or employee from representing or
+acting in a representative capacity for the official's or employee's new state agency on any matter in which the
+public official or employee personally participated as a public official or employee at the official's or employee's
+former state agency. However, no public official or employee of a state agency shall, during public employment
+or for twelve months thereafter, represent or act in a representative capacity for the official's or employee's new
+state agency on any audit or investigation pertaining to the official's or employee's new state agency in which the
+public official or employee personally participated at the official's or employee's former state agency through
+decision,  approval,  disapproval,  recommendation,  the  rendering  of  advice,  investigation,  or  other  substantial
+exercise of administrative discretion.
+ (9) Division (A) of this section does not prohibit a nonelected public official or employee of a political
+subdivision from becoming a public official or employee of a different department, division, agency, office, or
+unit of the same political subdivision. Division (A) of this section does not prohibit such an official or employee
+from representing or acting in a representative capacity for the official's or employee's new department, division,
+agency, office, or unit on any matter in which the public official or employee personally participated as a public
+official  or  employee  at  the  official's  or  employee's  former  department,  division,  agency,  office,  or  unit  of  the
+same political subdivision. As used in this division, "political subdivision" means a county, township, municipal
+corporation, or any other body corporate and politic that is responsible for government activities in a geographic
+area smaller than that of the state.
+
+11
+
+ (10)No present or former Ohio casino control commission official shall, during public service or for two
+years thereafter, represent a client, be employed or compensated by a person regulated by the commission, or act
+in a representative capacity for any person on any matter before or concerning the commission.
+ No present or former commission employee shall, during public employment or for two years thereafter,
+represent a client or act in a representative capacity on any matter in which the employee personally participated
+as a commission employee through decision, approval, disapproval, recommendation, the rendering of advice,
+investigation, or other substantial exercise of administrative discretion.
+ (B)    No  present  or  former  public  official  or  employee  shall  disclose  or  use,  without  appropriate
+authorization, any information acquired by the public official or employee in the course of the public official's
+or  employee's  official  duties  that  is  confidential  because  of  statutory  provisions,  or  that  has  been  clearly
+designated  to  the  public  official  or  employee  as  confidential  when  that  confidential  designation  is  warranted
+because  of  the  status  of  the  proceedings  or  the  circumstances  under  which  the  information  was  received  and
+preserving its confidentiality is necessary to the proper conduct of government business.
+ (C)    No  public  official  or  employee  shall  participate  within  the  scope  of  duties  as  a  public  official  or
+employee, except through ministerial functions as defined in division (A) of this section, in any license or rate-
+making  proceeding  that  directly  affects  the  license  or  rates  of  any  person,  partnership,  trust,  business  trust,
+corporation, or association in which the public official or employee or immediate family owns or controls more
+than five per cent.  No public official or employee shall participate within the scope of duties as a public official
+or  employee,  except  through  ministerial  functions  as  defined  in  division  (A)  of  this  section,  in  any  license  or
+rate-making  proceeding  that  directly  affects  the  license  or  rates  of  any  person  to  whom  the  public  official  or
+employee or immediate family, or a partnership, trust, business trust, corporation, or association of which the
+public official or employee or the public official's or employee's immediate family owns or controls more than
+five per cent, has sold goods or services totaling more than one thousand dollars during the preceding year, unless
+the public official or employee has filed a written statement acknowledging that sale with the clerk or secretary
+of the public agency and the statement is entered in any public record of the agency's proceedings.  This division
+shall not be construed to require the disclosure of clients of attorneys or persons licensed under section 4732.12
+or 4732.15 of the Revised Code, or patients of persons licensed under section 4731.14 of the Revised Code.
+ (D)  No public official or employee shall use or authorize the use of the authority or influence of office
+or employment to secure anything of value or the promise or offer of anything of value that is of such a character
+as  to  manifest  a  substantial  and  improper  influence  upon  the  public  official  or  employee  with  respect  to  that
+person's duties.
+ (E)  No public official or employee shall solicit or accept anything of value that is of such a character as
+to manifest a substantial and improper influence upon the public official or employee with respect to that person's
+duties.
+ (F)  No person shall promise or give to a public official or employee anything of value that is of such a
+character as to manifest a substantial and improper influence upon the public official or employee with respect
+to that person's duties.
+ (G)    In  the  absence  of  bribery  or  another  offense  under  the  Revised  Code  or  a  purpose  to  defraud,
+contributions  made  to  a  campaign  committee,  political  party,  legislative  campaign  fund,  political  action
+committee,  or  political  contributing  entity  on  behalf  of  an  elected  public  officer  or  other  public  official  or
+employee who seeks elective office shall be considered to accrue ordinarily to the public official or employee
+for the purposes of divisions (D), (E), and (F) of this section.
+ As used in this division, "contributions," "campaign committee," "political party," "legislative campaign
+fund,"  "political  action  committee,"  and  "political  contributing  entity"  have  the  same  meanings  as  in  section
+3517.01 of the Revised Code.
+ (H)(1)  No public official or employee, except for the president or other chief administrative officer of
+or a member of a board of trustees of a state institution of higher education as defined in section 3345.011 of the
+Revised Code, who is required to file a financial disclosure statement under section 102.02 of the Revised Code
+shall solicit or accept, and no person shall give to that public official or employee, an honorarium.  Except as
+provided  in  division  (H)(2)  of  this  section,  this  division  and  divisions  (D),  (E),  and  (F)  of  this  section  do  not
+prohibit a public official or employee who is required to file a financial disclosure statement under section 102.02
+of the Revised Code from accepting and do not prohibit a person from giving to that public official or employee
+the payment of actual travel expenses, including any expenses incurred in connection with the travel for lodging,
+and  meals,  food,  and  beverages  provided  to  the  public  official  or  employee  at  a  meeting  at  which  the  public
+
+12
+
+official or employee participates in a panel, seminar, or speaking engagement or provided to the public official
+or employee at a meeting or convention of a national organization to which any state agency, including, but not
+limited to, any state legislative agency or state institution of higher education as defined in section 3345.011 of
+the Revised Code, pays membership dues.  Except as provided in division (H)(2) of this section, this division
+and divisions (D), (E), and (F) of this section do not prohibit a public official or employee who is not required to
+file a financial disclosure statement under section 102.02 of the Revised Code from accepting and do not prohibit
+a person from promising or giving to that public official or employee an honorarium or the payment of travel,
+meal,  and  lodging  expenses  if  the  honorarium,  expenses,  or  both  were  paid  in  recognition  of  demonstrable
+business, professional, or esthetic interests of the public official or employee that exist apart from public office
+or employment, including, but not limited to, such a demonstrable interest in public speaking and were not paid
+by any person or other entity, or by any representative or association of those persons or entities, that is regulated
+by, doing business with, or seeking to do business with the department, division, institution, board, commission,
+authority, bureau, or other instrumentality of the governmental entity with which the public official or employee
+serves.
+ (2)  No  person  who  is  a  member  of  the  board  of  a  state  retirement  system,  a  state  retirement  system
+investment officer, or an employee of a state retirement system whose position involves substantial and material
+exercise of discretion in the investment of retirement system funds shall solicit or accept, and no person shall
+give to that board member, officer, or employee, payment of actual travel expenses, including expenses incurred
+with the travel for lodging, meals, food, and beverages.
+ (I)  A public official or employee may accept travel, meals, and lodging or expenses or reimbursement
+of expenses for travel, meals, and lodging in connection with conferences, seminars, and similar events related
+to official duties if the travel, meals, and lodging, expenses, or reimbursement is not of such a character as to
+manifest a substantial and improper influence upon the public official or employee with respect to that person's
+duties.  The house of representatives and senate, in their code of ethics, and the Ohio ethics commission, under
+section  111.15  of  the  Revised  Code,  may  adopt  rules  setting  standards  and  conditions  for  the  furnishing  and
+acceptance of such travel, meals, and lodging, expenses, or reimbursement.
+ A person who acts in compliance with this division and any applicable rules adopted under it, or any
+applicable, similar rules adopted by the supreme court governing judicial officers and employees, does not violate
+division (D), (E), or (F) of this section.  This division does not preclude any person from seeking an advisory
+opinion from the appropriate ethics commission under section 102.08 of the Revised Code.
+ (J)  For purposes of divisions (D), (E), and (F) of this section, the membership of a public official or
+employee in an organization shall not be considered, in and of itself, to be of such a character as to manifest a
+substantial and improper influence on the public official or employee with respect to that person's duties.  As
+used  in  this  division,  "organization"  means  a  church  or  a  religious,  benevolent,  fraternal,  or  professional
+organization that is tax exempt under subsection 501(a) and described in subsection 501(c) (3), (4), (8), (10), or
+(19) of the "Internal Revenue Code of 1986."  This division does not apply to a public official or employee who
+is an employee of an organization, serves as a trustee, director, or officer of an organization, or otherwise holds
+a fiduciary relationship with an organization.  This division does not allow a public official or employee who is
+a member of an organization to participate, formally or informally, in deliberations, discussions, or voting on a
+matter or to use the public official's or employee's official position with regard to the interests of the organization
+on the matter if the public official or employee has assumed a particular responsibility in the organization with
+respect to the matter or if the matter would affect that person's personal, pecuniary interests.
+ (K)  It is not a violation of this section for a prosecuting attorney to appoint assistants and employees in
+accordance with division (B) of section 309.06 and section 2921.421 of the Revised Code, for a chief legal officer
+of a municipal corporation or an official designated as prosecutor in a municipal corporation to appoint assistants
+and  employees  in  accordance  with  sections  733.621  and  2921.421  of  the  Revised  Code,  for  a  township  law
+director appointed under section 504.15 of the Revised Code to appoint assistants and employees in accordance
+with sections 504.151 and 2921.421 of the Revised Code, or for a coroner to appoint assistants and employees
+in accordance with division (B) of section 313.05 of the Revised Code.
+ As used in this division, "chief legal officer" has the same meaning as in section 733.621 of the Revised
+Code.
+ (L)  No  present  public  official  or  employee  with  a  casino  gaming  regulatory  function  shall  indirectly
+invest, by way of an entity the public official or employee has an ownership interest or control in, or directly
+invest in a casino operator, management company, holding company, casino facility, or gaming-related vendor.
+
+13
+
+No present public official or employee with a casino gaming regulatory function shall directly or indirectly have
+a financial interest in, have an ownership interest in, be the creditor or hold a debt instrument issued by, or have
+an  interest  in  a  contractual  or  service  relationship  with  a  casino  operator,  management  company,  holding
+company,  casino  facility,  or  gaming-related  vendor.  This  section  does  not  prohibit  or  limit  permitted  passive
+investing by the public official or employee.
+ As  used  in  this  division,  "passive  investing"  means  investment  by  the  public  official  or  employee  by
+means of a mutual fund in which the public official or employee has no control of the investments or investment
+decisions.  "Casino  operator,"  "holding  company,"  "management  company,"  "casino  facility,"  and  "gaming-
+related vendor" have the same meanings as in section 3772.01 of the Revised Code.
+ (M) A member of the Ohio casino control commission, the executive director of the commission, or an
+employee of the commission shall not:
+ (1) Accept anything of value, including but not limited to a gift, gratuity, emolument, or employment
+from a casino operator, management company, or other person subject to the jurisdiction of the commission, or
+from an officer, attorney, agent, or employee of a casino operator, management company, or other person subject
+to the jurisdiction of the commission;
+ (2)  Solicit,  suggest,  request,  or  recommend,  directly  or  indirectly,  to  a  casino  operator,  management
+company,  or  other  person  subject  to  the  jurisdiction  of  the  commission,  or  to  an  officer,  attorney,  agent,  or
+employee  of  a  casino  operator,  management  company,  or  other  person  subject  to  the  jurisdiction  of  the
+commission, the appointment of a person to an office, place, position, or employment;
+ (3) Participate in casino gaming or any other amusement or activity at a casino facility in this state or at
+an affiliate gaming facility of a licensed casino operator, wherever located.
+ In  addition  to  the  penalty  provided  in  section  102.99  of  the  Revised  Code,  whoever  violates  division
+(M)(1), (2), or (3) of this section forfeits the individual's office or employment.
+
+Sec. 102.031
+
+ (A)  As used in this section:
+ (1)   "Business associate" means a person with whom a member of the general assembly is conducting
+or undertaking a financial transaction.
+ (2)  "Contribution" has the same meaning as in section 3517.01 of the Revised Code.
+ (3)  "Employee" does not include a member of the general assembly whose nonlegislative position of
+employment  does  not  involve  the  performance  of  or  the  authority  to  perform  administrative  or  supervisory
+functions; or whose nonlegislative position of employment, if the member is a public employee, does not involve
+a substantial and material exercise of administrative discretion in the formulation of public policy, expenditure
+of public funds, enforcement of laws and rules of the state or a county or city, or execution of other public trusts.
+ (B)  No member of the general assembly shall vote on any legislation that the member knows is then
+being actively advocated if the member is one of the following with respect to a legislative agent or employer
+that is then actively advocating on that legislation:
+ (1)  An employee;
+ (2)  A business associate;
+ (3)  A person, other than an employee, who is hired under contract to perform certain services, and that
+position  involves  a  substantial  and  material  exercise  of  administrative  discretion  in  the  formulation  of  public
+policy.
+ (C)  No member of the general assembly shall knowingly accept any of the following from a legislative
+agent or a person required to file a statement described in division (A)(2) of section 102.021 of the Revised Code:
+ (1)  The payment of any expenses for travel or lodging except as otherwise authorized by division (H)
+of section 102.03 of the Revised Code;
+ (2)  More than seventy-five dollars aggregated per calendar year as payment for meals and other food
+and beverages, other than for those meals and other food and beverages provided to the member at a meeting at
+which  the  member  participates  in  a  panel,  seminar,  or  speaking  engagement,  at  a  meeting  or  convention  of  a
+national  organization  to  which  any  state  agency,  including,  but  not  limited  to,  any  legislative  agency  or  state
+institution of higher education as defined in section 3345.011 of the Revised Code, pays membership dues, or at
+a dinner, party, or function to which all members of the general assembly or all members of either house of the
+general assembly are invited;
+
+14
+
+ (3)  A gift of any amount in the form of cash or the equivalent of cash, or a gift of any other thing of
+value whose value exceeds seventy-five dollars.  As used in division (C)(3) of this section, "gift" does not include
+any  contribution  or  any  gifts  of  meals  and  other  food  and  beverages  or  the  payment  of  expenses  incurred  for
+travel to destinations either inside or outside this state that is received by a member of the general assembly and
+that is incurred in connection with the member's official duties.
+ (D)  It is not a violation of division (C)(2) of this section if, within sixty days after receiving notice from
+a  legislative  agent  that  the  legislative  agent  has  provided  a  member  of  the  general  assembly  with  more  than
+seventy-five  dollars  aggregated  in  a  calendar  year  as  payment  for  meals  and  other  food  and  beverages,  the
+member of the general assembly returns to that legislative agent the amount received that exceeds seventy-five
+dollars.
+ (E)  The joint legislative ethics committee may impose a fine of not more than one thousand dollars upon
+a member of the general assembly who violates division (B) of this section.
+
+Section 102.04
+
+ (A)  Except as provided in division (D) of this section, no person elected or appointed to an office of or
+employed by the general assembly or any department, division, institution, instrumentality, board, commission,
+or bureau of the state, excluding the courts, shall receive or agree to receive directly or indirectly compensation
+other than from the agency with which he serves for any service rendered or to be rendered by him personally in
+any case, proceeding, application, or other matter that is before the general assembly or any department, division,
+institution, instrumentality, board, commission, or bureau of the state, excluding the courts.
+ (B)  Except as provided in division (D) of this section, no person elected or appointed to an office of or
+employed by the general assembly or any department, division, institution, instrumentality, board, commission,
+or bureau of the state, excluding the courts, shall sell or agree to sell, except through competitive bidding, any
+goods  or  services  to  the  general  assembly  or  any  department,  division,  institution,  instrumentality,  board,
+commission, or bureau of the state, excluding the courts.
+ (C)  Except as provided in division (D) of this section, no person who is elected or appointed to an office
+of or employed by a county, township, municipal corporation, or any other governmental entity, excluding the
+courts,  shall  receive  or  agree  to  receive  directly  or  indirectly  compensation  other  than  from  the  agency  with
+which he serves for any service rendered or to be rendered by him personally in any case, proceeding, application,
+or other matter which is before any agency, department, board, bureau, commission, or other instrumentality,
+excluding the courts, of the entity of which he is an officer or employee.
+ (D)  A public official who is appointed to a nonelective office or a public employee shall be exempted
+from division (A), (B), or (C) of this section if both of the following apply:
+ (1)  The agency to which the official or employee wants to sell the goods or services, or before which
+the matter that involves the rendering of his services is pending, is an agency other than the one with which he
+serves;
+ (2)  Prior to rendering the personal services or selling or agreeing to sell the goods or services, he files a
+statement  with  the  appropriate  ethics  commission,  with  the  public  agency  with  which  he  serves,  and  with  the
+public  agency  before  which  the  matter  is  pending  or  that  is  purchasing  or  has  agreed  to  purchase  goods  or
+services.
+ The required statement shall contain the official's or employee's name and home address, the name and
+mailing address of the public agencies with which he serves and before which the matter is pending or that is
+purchasing or has agreed to purchase goods or services, and a brief description of the pending matter and of the
+personal services to be rendered or a brief description of the goods or services to be purchased.  The statement
+shall also contain the public official's or employee's declaration that he disqualifies himself for a period of two
+years from any participation as such public official or employee in any matter involving any public official or
+employee of the agency before which the present matter is pending or to which goods or services are to be sold.
+The  two-year  period  shall  run  from  the  date  of  the  most  recently  filed  statement  regarding  the  agency  before
+which the matter was pending or to which the goods or services were to be sold.  No person shall be required to
+file statements under this division with the same public agency regarding a particular matter more than once in
+a calendar year.
+ (E)  No public official or employee who files a statement or is required to file a statement under division
+(D)  of  this  section  shall  knowingly  fail  to  disqualify  himself  from  any  participation  as  a  public  official  or
+
+15
+
+employee  of  the  agency  with  which  he  serves  in  any  matter  involving  any  official  or  employee  of  an  agency
+before which a matter for which he rendered personal services was pending or of a public agency that purchased
+or agreed to purchase goods or services.
+ (F)  This section shall not be construed to prohibit the performance of ministerial functions including,
+but not limited to, the filing, or amendment of tax returns, applications for permits and licenses, incorporation
+papers, and other documents.
+
+Section 102.05
+
+ There is hereby created the Ohio ethics commission consisting of six members, three of whom shall be
+members of each of the two major political parties, to be appointed by the governor with the advice and consent
+of the senate.  Within thirty days of the effective date of this section, the governor shall make initial appointments
+to the commission.  Of the initial appointments made to the commission, one shall be for a term ending one year
+after the effective date of this section, and the other appointments shall be for terms ending two, three, four, five,
+and six years, respectively, after the effective date of this section.  Thereafter, terms of office shall be for six
+years, each term ending on the same day of the same month of the year as did the term that it succeeds.  Each
+member shall hold office from the date of his appointment until the end of the term for which he was appointed.
+Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor
+was appointed shall hold office for the remainder of that term.
+ No person shall be appointed to the commission or shall continue to serve as a member of the commission
+if  the  person  is  subject  to  section  102.02  of  the  Revised  Code  other  than  by  reason  of  his  appointment  to  the
+commission or if the person is a legislative agent registered under sections 101.70 to 101.79 of the Revised Code
+or an executive agency lobbyist registered under sections 121.60 to 121.69 of the Revised Code.  Each member
+shall  be  paid  seventy-five  dollars  for  each  meeting  held  in  the  discharge  of  his  official  duties,  except  that  no
+member shall be paid more than eighteen hundred dollars in any fiscal year. Each member shall be reimbursed
+for expenses actually and necessarily incurred in the performance of his official duties.
+ The commission shall meet within two weeks after all members have been appointed, at a time and place
+determined by the governor.  At its first meeting, the commission shall elect a chairman and other officers that
+are necessary and shall adopt rules for its procedures.  After the first meeting, the commission shall meet at the
+call of the chairman or upon the written request of a majority of the members.  A majority of the members of the
+commission  constitutes  a  quorum.    The  commission  shall  not  take  any  action  without  the  concurrence  of  a
+majority of the members of the commission.
+ The  commission  may  appoint  and  fix  the  compensation  of  an  executive  director  and  other  technical,
+professional, and clerical employees that are necessary to carry out the duties of the commission.
+ The commission may appoint hearing examiners to conduct hearings pursuant to section 102.06 of the
+Revised  Code.    The  hearing  examiners  have  the  same  powers  and  authority  in  conducting  the  hearings  as  is
+granted  to  the  commission.    Within  thirty  days  after  the  hearing,  the  hearing  examiner  shall  submit  to  the
+commission a written report of his findings of fact and conclusions of law and a recommendation of the action
+to be taken by the commission.  The recommendation of the hearing examiner may be approved, modified, or
+disapproved by the commission, and no recommendation shall become the findings of the commission until so
+ordered by the commission.  The findings of the commission shall have the same effect as if the hearing had been
+conducted  by  the  commission.    Hearing  examiners  appointed  pursuant  to  this  section  shall  possess  the
+qualifications the commission requires.  Nothing contained in this section shall preclude the commission from
+appointing a member of the commission to serve as a hearing examiner.
+
+Section 102.06
+
+ (A)  The appropriate ethics commission shall receive and may initiate complaints against persons subject
+to this chapter concerning conduct alleged to be in violation of this chapter or section 2921.42 or 2921.43 of the
+Revised Code.  All complaints except those by the commission shall be by affidavit made on personal knowledge,
+subject to the penalties of perjury.  Complaints by the commission shall be by affidavit, based upon reasonable
+cause to believe that a violation has occurred.
+ (B)  The appropriate ethics commission shall investigate complaints, may investigate charges presented
+to  it,  and  may  request  further  information,  including  the  specific  amount  of  income  from  a  source,  from  any
+
+16
+
+person filing with the commission a statement required by section 102.02 or 102.021 of the Revised Code, if the
+information sought is directly relevant to a complaint or charges received by the commission pursuant to this
+section.  This information is confidential, except that the commission, in its discretion, may share information
+gathered  in  the  course  of  any  investigation  with,  or  disclose  the  information  to,  the  inspector  general,  any
+appropriate prosecuting authority, any law enforcement agency, or any other appropriate ethics commission.  If
+the accused person is a member of the public employees retirement board, state teachers retirement board, school
+employees retirement board, board of trustees of the Ohio police and fire pension fund, or state highway patrol
+retirement  board,  or  is  a  member  of  the  bureau  of  workers'  compensation  board  of  directors,  the  appropriate
+ethics commission, in its discretion, also may share information gathered in the course of an investigation with,
+or disclose the information to, the attorney general and the auditor of state.  The person so requested shall furnish
+the information to the commission, unless within fifteen days from the date of the request the person files an
+action for declaratory judgment challenging the legitimacy of the request in the court of common pleas of the
+county  of  the  person's  residence,  the  person's  place  of  employment,  or  Franklin  county.    The  requested
+information  need  not  be  furnished  to  the  commission  during  the  pendency  of  the  judicial  proceedings.
+Proceedings  of  the  commission  in  connection  with  the  declaratory  judgment  action  shall  be  kept  confidential
+except as otherwise provided by this section.  Before the commission proceeds to take any formal action against
+a person who is the subject of an investigation based on charges presented to the commission, a complaint shall
+be filed against the person.  If the commission finds that a complaint is not frivolous, and there is reasonable
+cause to believe that the facts alleged in a complaint constitute a violation of section 102.02, 102.021, 102.03,
+102.04, 102.07, 2921.42, or 2921.43 of the Revised Code, it shall hold a hearing.  If the commission does not so
+find, it shall dismiss the complaint and notify the accused person in writing of the dismissal of the complaint.
+The commission shall not make a report of its finding unless the accused person requests a report.  Upon the
+request  of  the  accused  person,  the  commission  shall  make  a  public  report  of  its  finding.    The  person  against
+whom the complaint is directed shall be given reasonable notice by certified mail of the date, time, and place of
+the hearing and a statement of the charges and the law directly involved and shall be given the opportunity to be
+represented by counsel, to have counsel appointed for the person if the person is unable to afford counsel without
+undue  hardship,  to  examine  the  evidence  against  the  person,  to  produce  evidence  and  to  call  and  subpoena
+witnesses  in  the  person's  defense,  to  confront  the  person's  accusers,  and  to  cross-examine  witnesses.    The
+commission shall have a stenographic record made of the hearing.  The hearing shall be closed to the public.
+ (C)(1)(a)  If, upon the basis of the hearing, the appropriate ethics commission finds by a preponderance
+of  the  evidence  that  the  facts  alleged  in  the  complaint  are  true  and  constitute  a  violation  of  section  102.02,
+102.021,  102.03,  102.04,  102.07,  2921.42,  or  2921.43  of  the  Revised  Code,  it  shall  report  its  findings  to  the
+appropriate  prosecuting  authority  for  proceedings  in  prosecution  of  the  violation  and  to  the  appointing  or
+employing authority of the accused.  If the accused person is a member of the public employees retirement board,
+state teachers retirement board, school employees retirement board, board of trustees of the Ohio police and fire
+pension fund, or state highway patrol retirement board, the commission also shall report its findings to the Ohio
+retirement study council.
+ (b)    If  the  Ohio  ethics  commission  reports  its  findings  to  the  appropriate  prosecuting  authority  under
+division  (C)(1)(a)  of  this  section  and  the  prosecuting  authority  has  not  initiated  any  official  action  on  those
+findings  within  ninety  days  after  receiving  the  commission's  report  of  them,  the  commission  may  publicly
+comment  that  no  official  action  has  been  taken  on  its  findings,  except  that  the  commission  shall  make  no
+comment in violation of the Rules of Criminal Procedure or about any indictment that has been sealed pursuant
+to any law or those rules.  The commission shall make no comment regarding the merits of its findings.  As used
+in division (C)(1)(b) of this section, "official action" means prosecution, closure after investigation, or grand jury
+action resulting in a true bill of indictment or no true bill of indictment.
+ (2)  If the appropriate ethics commission does not find by a preponderance of the evidence that the facts
+alleged in the complaint are true and constitute a violation of section 102.02, 102.021, 102.03, 102.04, 102.07,
+2921.42, or 2921.43 of the Revised Code or if the commission has not scheduled a hearing within ninety days
+after the complaint is filed or has not finally disposed of the complaint within six months after it has been heard,
+it shall dismiss the complaint and notify the accused person in writing of the dismissal of the complaint.  The
+commission shall not make a report of its finding unless the accused person requests a report.  Upon the request
+of the accused person, the commission shall make a public report of the finding, but in this case all evidence and
+the record of the hearing shall remain confidential unless the accused person also requests that the evidence and
+
+17
+
+record be made public.  Upon request by the accused person, the commission shall make the evidence and the
+record available for public inspection.
+ (D)  The appropriate ethics commission, or a member of the commission, may administer oaths, and the
+commission  may  issue  subpoenas  to  any  person  in  the  state  compelling  the  attendance  of  witnesses  and  the
+production of relevant papers, books, accounts, and records.  The commission shall issue subpoenas to compel
+the attendance of witnesses and the production of documents upon the request of an accused person.  Section
+101.42 of the Revised Code shall govern the issuance of these subpoenas insofar as applicable.  Upon the refusal
+of any person to obey a subpoena or to be sworn or to answer as a witness, the commission may apply to the
+court  of  common  pleas  of  Franklin  county  under  section  2705.03  of  the  Revised  Code.    The  court  shall  hold
+proceedings in accordance with Chapter 2705. of the Revised Code.  The commission or the accused person may
+take the depositions of witnesses residing within or without the state in the same manner as prescribed by law
+for the taking of depositions in civil actions in the court of common pleas.
+ (E)  At least once each year, the Ohio ethics commission shall report on its activities of the immediately
+preceding  year  to  the  majority  and  minority  leaders  of  the  senate  and  house  of  representatives  of  the  general
+assembly.  The report shall indicate the total number of complaints received, initiated, and investigated by the
+commission,  the  total  number  of  complaints  for  which  formal  hearings  were  held,  and  the  total  number  of
+complaints for which formal prosecution was recommended or requested by the commission.  The report also
+shall indicate the nature of the inappropriate conduct alleged in each complaint and the governmental entity with
+which  any  employee  or  official  that  is  the  subject  of  a  complaint  was  employed  at  the  time  of  the  alleged
+inappropriate conduct.
+ (F)  All papers, records, affidavits, and documents upon any complaint, inquiry, or investigation relating
+to the proceedings of the appropriate ethics commission shall be sealed and are private and confidential, except
+as otherwise provided in this section and section 102.07 of the Revised Code.
+ (G)(1)    When  a  complaint  or  charge  is  before  it,  the  Ohio  ethics  commission  or  the  appropriate
+prosecuting authority, in consultation with the person filing the complaint or charge, the accused, and any other
+person the commission or prosecuting authority considers necessary, may compromise or settle the complaint or
+charge with the agreement of the accused.  The compromise or settlement may include mediation, restitution,
+rescission of affected contracts, forfeiture of any benefits resulting from a violation or potential violation of law,
+resignation of a public official or employee, or any other relief that is agreed upon between the commission or
+prosecuting authority and the accused.
+ (2)  Any settlement agreement entered into under division (G)(1) of this section shall be in writing and
+be accompanied by a statement of the findings of the commission or prosecuting authority and the reasons for
+entering into the agreement.  The commission or prosecuting authority shall retain the agreement and statement
+in  the  commission's  or  prosecuting  authority's  office  and,  in  the  commission's  or  prosecuting  authority's
+discretion, may make the agreement, the statement, and any supporting information public, unless the agreement
+provides otherwise.
+ (3)  If a settlement agreement is breached by the accused, the commission or prosecuting authority, in
+the  commission's  or  prosecuting  authority's  discretion,  may  rescind  the  agreement  and  reinstitute  any
+investigation, hearing, or prosecution of the accused.  No information obtained from the accused in reaching the
+settlement  that  is  not  otherwise  discoverable  from  the  accused  shall  be  used  in  any  proceeding  before  the
+commission or by the appropriate prosecuting authority in prosecuting the violation.  Notwithstanding any other
+section of the Revised Code, if a settlement agreement is breached, any statute of limitations for a violation of
+this chapter or section 2921.42 or 2921.43 of the Revised Code is tolled from the date the complaint or charge is
+fil  ed until the date the settlement agreement is breached.
+
+Section 102.07
+
+ No member, employee, or agent of the Ohio ethics commission, board of commissioners on grievances
+and discipline of the supreme court, or joint legislative ethics committee shall divulge any information or any
+books,  papers,  or  documents  presented  to  the  commission,  joint  legislative  ethics  committee,  or  board  of
+commissioners  on  grievances  and  discipline  without  the  consent,  in  writing,  of  the  appropriate  ethics
+commission, unless such books, papers, or documents were presented at a public hearing, except as provided in
+section 102.06 of the Revised Code.
+
+18
+
+ No person shall divulge information that appears on a disclosure statement and is required to be kept
+confidential under division (B) of section 102.02 of the Revised Code.
+
+Section 102.08*
+
+* See also following version of this section and explanation after that version.
+
+ (A)(1)    Subject  to  division  (A)(2)  of  this  section,  the  board  of  commissioners  on  grievances  and
+discipline  of  the  supreme  court  and  the  house  and  senate  legislative  ethics  committees  may  recommend
+legislation relating to ethics, conflicts of interest, and financial disclosure and shall render advisory opinions with
+regard to questions concerning these matters for persons for whom it is the appropriate ethics commission.  When
+the appropriate ethics commission renders an advisory opinion relating to a special set of circumstances involving
+ethics,  conflict  of  interest,  or  financial  disclosure  under  Chapter  102.  or  section  2921.42  or  2921.43  of  the
+Revised Code, the person to whom the opinion was directed or who was similarly situated may reasonably rely
+upon the opinion and shall be immune from criminal prosecutions, civil suits, or actions for removal from his
+office or position of employment for a violation of Chapter 102. or section 2921.42 or 2921.43 of the Revised
+Code  based  on  facts  and  circumstances  covered  by  the  opinion,  if  the  opinion  states  there  is  no  violation  of
+Chapter  102.  or  section  2921.42  or  2921.43  of  the  Revised  Code.    Except  as  otherwise  provided  in  division
+(A)(2)  of  this  section,  the  appropriate  ethics  commission  shall  include  in  every  advisory  opinion  it  renders  a
+statement  as  to  whether  the  set  of  circumstances  described  in  the  opinion  constitutes  a  violation  of  section
+2921.42 or 2921.43 of the Revised Code.  The appropriate ethics commission shall provide a continuing program
+of education and information concerning the provisions of Chapter 102. and sections 2921.42 and 2921.43 of the
+Revised Code and other provisions of law pertaining to ethics, conflicts of interest, and financial disclosure.  As
+used  in  division  (A)  of  this  section,  "appropriate  ethics  commission"  does  not  include  the  Ohio  ethics
+commission.
+ (2)  The board of commissioners on grievances and discipline of the supreme court shall issue advisory
+opinions only in a manner consistent with Rule V of the Supreme Court Rules for the Government of the Bar of
+Ohio.
+ (B)  The Ohio ethics commission may recommend legislation relating to ethics, conflicts of interest, and
+financial  disclosure  and  may  render  advice  with  regard  to  questions  concerning  these  matters  for  persons  for
+whom it is the appropriate ethics commission.  When the Ohio ethics commission renders a written formal or
+staff advisory opinion relating to a special set of circumstances involving ethics, conflict of interest, or financial
+disclosure  under  Chapter  102.  or  section  2921.42  or  2921.43  of  the  Revised  Code,  the  person  to  whom  the
+opinion was directed or who was similarly situated may reasonably rely upon the opinion and shall be immune
+from criminal prosecutions, civil suits, or actions for removal from his office or position of employment for a
+violation of Chapter 102. or section 2921.42 or 2921.43 of the Revised Code based on facts and circumstances
+covered by the opinion, if the opinion states there is no violation of Chapter 102. or section 2921.42 or 2921.43
+of  the  Revised  Code.    The  commission  shall  provide  a  continuing  program  of  education  and  information
+concerning  the  provisions  of  Chapter  102.  and  sections  2921.42  and  2921.43  of  the  Revised  Code  and  other
+provisions  of  law  pertaining  to  ethics,  conflicts  of  interest,  and  financial  disclosure.    [Am.  Sub.  H.B.  285,
+effective 03-02-94.]
+
+Section 102.08*
+
+* See also preceding version of this section and explanation below.
+
+ (A)    The  Ohio  ethics  commission,  the  board  of  commissioners  on  grievances  and  discipline  of  the
+supreme court, and the joint legislative ethics committee may recommend legislation relating to ethics, conflicts
+of  interest,  and  financial  disclosure,  and  render  advisory  opinions  with  regard  to  questions  concerning  these
+matters for persons for whom it is the appropriate ethics commission.
+ (B)  When the Ohio ethics commission or the board of commissioners on grievances and discipline of
+the supreme court renders an advisory opinion relating to a special set of circumstances involving ethics, conflict
+of interest, or financial disclosure under Chapter 102., section 2921.42, or section 2921.43 of the Revised Code,
+the  person  to  whom  the  opinion  was  directed  or  who  was  similarly  situated  may  reasonably  rely  upon  such
+
+19
+
+opinion and shall be immune from criminal prosecutions, civil suits, or actions for removal from his office or
+position of employment for a violation of Chapter 102., section 2921.42, or section 2921.43 of the Revised Code
+based on facts and circumstances covered by the opinion, if the opinion states there is no violation of Chapter
+102., section 2921.42, or section 2921.43 of the Revised Code.
+ (C)    When  the  joint  legislative  ethics  committee  renders  an  advisory  opinion  that  has  been  publicly
+sought  and  that  relates  to  a  special  set  of  circumstances  involving  ethics,  conflicts  of  interest,  or  financial
+disclosure  under  Chapter  102.  or  section  2921.42  or  2921.43  of  the  Revised  Code,  the  person  to  whom  the
+opinion was directed or who was similarly situated may reasonably rely upon such opinion and shall be immune
+from criminal prosecutions, civil suits, or actions for removal from his office or position of employment for a
+violation of Chapter 102. or section 2921.42 or 2921.43 of the Revised Code based on the facts and circumstances
+covered  by  the  opinion,  if  the  opinion  states  that  there  is  no  violation  of  Chapter  102.  or  section  2921.42  or
+2921.43 of the Revised Code.  When the joint legislative ethics committee renders an advisory opinion that has
+been publicly sought, the advisory opinion is a public record available under section 149.43 of the Revised Code.
+ (D)  When the joint legislative ethics committee renders a written opinion that has been privately sought
+and  that  relates  to  a  special  set  of  circumstances  involving  ethics,  conflicts  of  interest,  or  financial  disclosure
+under Chapter 102. or section 2921.42 or 2921.43 of the Revised Code, the written opinion does not have the
+legal effect of an advisory opinion issued under division (C) of this section.  When the joint legislative ethics
+committee renders a written opinion that has been privately sought, the written opinion is not a public record
+available under section 149.43 of the Revised Code.  The proceedings of the legislative ethics committee relating
+to  a  written  opinion  that  has  been  privately  sought  shall  be  closed  to  the  public  and  records  relating  to  these
+proceedings are not public records available under section 149.43 of the Revised Code.
+ The person to whom a written opinion is issued under this division may request the committee to issue
+the written opinion as an advisory opinion.  Upon receiving such a request and with the approval of a majority
+of the members of the committee, the committee may issue the written opinion as an advisory opinion.  If the
+committee issues the written opinion as an advisory opinion, the advisory opinion has the same legal effect as an
+advisory opinion issued under division (C) of this section and is a public record available under section 149.43
+of the Revised Code.
+ (E)    The  joint  legislative  ethics  committee  shall  issue  an  advisory  opinion  under  division  (C)  of  this
+section or a written opinion under division (D) of this section, whether it is publicly or privately sought, only at
+a meeting of the committee and only with the approval of a majority of the members of the committee.
+ (F)  The appropriate ethics commission shall provide a continuing program of education and information
+concerning  the  provisions  of  Chapter  102.    and  sections  2921.42  and  2921.43  of  the  Revised  Code  and  other
+provisions  of  law  pertaining  to  ethics,  conflicts  of  interest,  and  financial  disclosure.    [Am.  Sub.  H.B.  492,
+effective 05-12-94.]
+
+*   R.C.  102.08  was  amended  by  Am.  Sub.  H.B.  285  (eff.  03-02-94)  and  Am.  Sub.  H.B.  492  (eff.  05-12-94).
+Harmonization pursuant to R.C. 1.52 is in question.  Both versions are presented here.
+
+Section 102.09
+
+ (A)  The secretary of state and the county board of elections shall furnish, to each candidate for elective
+office who is required to file a financial disclosure statement by section 102.02 of the Revised Code, a financial
+disclosure  form,  and  shall  notify  the  appropriate  ethics  commission,  within  fifteen  days  of  the  name  of  the
+candidate,  and  of  the  subsequent  withdrawal,  disqualification,  or  death  of  the  candidate.    The  candidate  shall
+acknowledge receipt of the financial disclosure form in writing.
+ (B)  The secretary of state and the county board of elections shall furnish to each person who is appointed
+to fill a vacancy for an unexpired term in an elective office, and who is required to file a financial disclosure
+statement by section 102.02 of the Revised Code, a financial disclosure form, and shall notify the appropriate
+ethics commission within fifteen days of being notified by the appointing authority, of the name and position of
+the public official and the date of appointment.  The person shall acknowledge receipt of the financial disclosure
+form in writing.
+ (C)  The public agency or appointing authority that employs, appoints, or promotes any public official
+or  employee  who,  as  a  result  of  such  employment,  appointment,  or  promotion,  is  required  to  file  a  financial
+disclosure  statement  by  section  102.02  of  the  Revised  Code,  shall,  within  fifteen  days  of  the  employment,
+
+20
+
+appointment, or promotion, furnish the public official or employee with a financial disclosure form, and shall
+notify the appropriate ethics commission of the name and position of the public official or employee and the date
+of employment, appointment, or promotion.  The public official or employee shall acknowledge receipt of the
+financial disclosure form in writing.
+ (D)  Within fifteen days after any public official or employee begins the performance of official duties,
+the public agency with which the official or employee serves or the appointing authority shall furnish the official
+or  employee  a  copy  of  Chapter  102.  and  section  2921.42  of  the  Revised  Code,  and  may  furnish  such  other
+materials  as  the  appropriate  ethics  commission  prepares  for  distribution.    The  official  or  employee  shall
+acknowledge their receipt in writing.  The requirements of this division do not apply at the time of reappointment
+or reelection.
+
+Section 102.99
+
+ (A) Whoever violates division (C) of section 102.02 or division (C) of section 102.031
+ of the Revised
+Code is guilty of a misdemeanor of the fourth degree.
+ (B)  Whoever  violates  division  (D)  of  section 102.02 or  section 102.021, 102.03, 102.04,  or 102.07 of
+the Revised Code is guilty of a misdemeanor of the first degree.
+ (C) In addition to the penalty provided in division (B) of this section, whoever violates division (M)(1),
+(2), or (3) of section 102.03
+ of the Revised Code forfeits the individual's office or employment.
+ (D) In addition to the penalty provided in division (B) of this section, any person who violates division
+(F) of section 102.03
+ of the Revised Code is subject to the following:
+ (1) The court may prohibit the person from participating in a public contract with any public agency in
+this  state  for  a  period  of  two  years  if  recommended  by  the  agency  by  whom  the  offending  public  official  or
+employee was employed.
+ (2) The court may order the person to pay an additional fine equal to the amount of any thing of value
+given in violation of division (F) of section 102.03
+ of the Revised Code.
+ (E) Upon application of the Ohio ethics commission, the court shall order a person who is convicted of
+a violation of section 102.021, 102.03, or 102.04
+ of the Revised Code to pay the costs incurred to investigate and
+prosecute  the  case.  The  amount  ordered  under  this  division  shall  not  exceed  the  amount  a  person  unlawfully
+secured,  solicited,  or  accepted;  the  amount  a  person  received  as  improper  compensation,  as  an  unlawful
+honorarium,  or  from  the  unlawful  sale  of  goods  or  services;  or  the  amount  otherwise  applicable  under
+section
+102.021, 102.03, or 102.04 of the Revised Code. These costs are in addition to any other cost or penalty
+provided in the Revised Code or any other provision of law.
+
+21
+
+CHAPTER 2921.
+
+Section 2921.01 As used in sections 2921.01 to 2921.45 of the Revised Code:
+
+(A) "Public official" means any elected or appointed officer, or employee, or agent of the state or any
+political subdivision, whether in a temporary or permanent capacity, and includes, but is not limited to,
+legislators, judges, and law enforcement officers. "Public official" does not include an employee, officer, or
+governor-appointed member of the board of directors of the nonprofit corporation formed under section 187.01
+of the Revised Code.
+(B) "Public servant" means any of the following:
+(1)  Any public official;
+(2) Any person performing ad hoc a governmental function, including, but not limited to, a juror,
+member of a temporary commission, master, arbitrator, advisor, or consultant;
+(3) A person who is a candidate for public office, whether or not the person is elected or appointed to
+the office for which the person is a candidate. A person is a candidate for purposes of this division if the person
+has been nominated according to law for election or appointment to public office, or if the person has filed a
+petition or petitions as required by law to have the person's name placed on the ballot in a primary, general, or
+special election, or if the person campaigns as a write-in candidate in any primary, general, or special election.
+"Public servant" does not include an employee, officer, or governor-appointed member of the board of
+directors of the nonprofit corporation formed under section 187.01 of the Revised Code.
+ (C) "Party official" means any person who holds an elective or appointive post in a political party in the
+United  States  or  this  state,  by  virtue  of  which  the  person  directs,  conducts,  or  participates  in  directing  or
+conducting party affairs at any level of responsibility.
+ (D)  "Official proceeding" means any proceeding before a legislative, judicial, administrative, or other
+governmental agency or official authorized to take evidence under oath and includes any proceeding before a
+referee, hearing examiner, commissioner, notary, or other person taking testimony or a deposition in connection
+with an official proceeding.
+ (E)  "Detention" means arrest; confinement in any vehicle subsequent to an arrest; confinement in any
+public or private facility for custody of persons charged with or convicted of crime in this state or another state
+or under the laws of the United States or alleged or found to be a delinquent child or unruly child in this state or
+another state or under the laws of the United States; hospitalization, institutionalization, or confinement in any
+public or private facility that is ordered pursuant to or under the authority of section 2945.37, 2945.371, 2945.38,
+2945.39, 2945.40, 2945.401, or 2945.402 of the Revised Code; confinement in any vehicle for transportation to
+or from any facility of any of those natures; detention for extradition or deportation; except as provided in this
+division, supervision by any employee of any facility of any of those natures that is incidental to hospitalization,
+institutionalization, or confinement in the facility but that occurs outside the facility; supervision by an employee
+of the department of rehabilitation and correction of a person on any type of release from a state correctional
+institution; or confinement in any vehicle, airplane, or place while being returned from outside of this state into
+this state by a private person or entity, pursuant to a contract entered into under division (E) of section 311.29 of
+the Revised Code or division (B) of section 5149.03 of the Revised Code.  For a person confined in a county jail
+who participates in a county jail industry program pursuant to section 5147.30 of the Revised Code, "detention"
+includes time spent at an assigned work site and going to and from the work site.
+ (F)  "Detention facility" means any public or private place used for the confinement of a person charged
+with or convicted of any crime in this state or another state or under the laws of the United States or alleged or
+found to be a delinquent child or unruly child in this state or another state or under the laws of the United States.
+ (G)  "Valuable thing or valuable benefit" includes, but is not limited to, a contribution.  This inclusion
+does not indicate or imply that a contribution was not included in those terms before September 17, 1986.
+ (H)  "Campaign committee," "contribution," "political action committee," "legislative campaign fund,"
+"political party," and "political contributing entity" have the same meanings as in section 3517.01 of the Revised
+Code.
+(I) "Provider agreement" has the same meaning as in section 5164.01 of the Revised Code.
+
+22
+
+Sec. 2921.42.
+
+(A) No public official shall knowingly do any of the following:
+(1) Authorize, or employ the authority or influence of the public official's office to secure authorization
+of any public contract in which the public official, a member of the public official's family, or any of the public
+official's business associates has an interest;
+(2) Authorize, or employ the authority or influence of the public official's office to secure the investment
+of  public  funds  in  any  share,  bond,  mortgage,  or  other  security,  with  respect  to  which  the  public  official,  a
+member of the public official's family, or any of the public official's business associates either has an interest,
+is an underwriter, or receives any brokerage, origination, or servicing fees;
+(3) During the public official's term of office or within one year thereafter, occupy any position of profit
+in the prosecution of a public contract authorized by the public official or by a legislative body, commission, or
+board  of  which  the  public  official  was  a  member  at  the  time  of  authorization,  unless  the  contract  was  let  by
+competitive bidding to the lowest and best bidder;
+(4) Have an interest in the profits or benefits of a public contract entered into by or for the use of the
+political subdivision or governmental agency or instrumentality with which the public official is connected;
+(5) Have an interest in the profits or benefits of a public contract that is not let by competitive bidding if
+required by law and that involves more than one hundred fifty dollars.
+(B)  In  the  absence  of  bribery  or  a  purpose  to  defraud,  a  public  official,  member  of  a  public  official's
+family, or any of a public official's business associates shall not be considered as having an interest in a public
+contract or the investment of public funds, if all of the following apply:
+(1) The interest of that person is limited to owning or controlling shares of the corporation, or being a
+creditor of the corporation or other organization, that is the contractor on the public contract involved, or that is
+the issuer of the security in which public funds are invested;
+(2) The shares owned or controlled by that person do not exceed five per cent of the outstanding shares
+of  the  corporation,  and  the  amount  due  that  person  as  creditor  does  not  exceed  five  per  cent  of  the  total
+indebtedness of the corporation or other organization;
+(3) That person, prior to the time the public contract is entered into, files with the political subdivision
+or governmental agency or instrumentality involved, an affidavit giving that person's exact status in connection
+with the corporation or other organization.
+(C)  This  section  does  not  apply  to  a  public  contract  in  which  a  public  official,  member  of  a  public
+official's family, or one of a public official's business associates has an interest, when all of the following apply:
+(1) The subject of the public contract is necessary supplies or services for the political subdivision or
+governmental agency or instrumentality involved;
+(2) The supplies or services are unobtainable elsewhere for the same or lower cost, or are being furnished
+to the political subdivision or governmental agency or instrumentality as part of a continuing course of dealing
+established  prior  to  the  public  official's  becoming  associated  with  the  political  subdivision  or  governmental
+agency or instrumentality involved;
+(3) The treatment accorded the political subdivision or governmental agency or instrumentality is either
+preferential to or the same as that accorded other customers or clients in similar transactions;
+(4) The entire transaction is conducted at arm's length, with full knowledge by the political subdivision
+or governmental agency or instrumentality involved, of the interest of the public official, member of the public
+official's family, or business associate, and the public official takes no part in the deliberations or decision of the
+political subdivision or governmental agency or instrumentality with respect to the public contract.
+(D) Division (A)(4) of this section does not prohibit participation by a public employee in any housing
+program funded by public moneys if the public employee otherwise qualifies for the program and does not use
+the authority or influence of the public employee's office or employment to secure benefits from the program
+and if the moneys are to be used on the primary residence of the public employee. Such participation does not
+constitute an unlawful interest in a public contract in violation of this section.
+(E) Whoever violates this section is guilty of having an unlawful interest in a public contract. Violation
+of division (A)(1) or (2) of this section is a felony of the fourth degree. Violation of division (A)(3), (4), or (5)
+of this section is a misdemeanor of the first degree.
+(F) It is not a violation of this section for a prosecuting attorney to appoint assistants and employees in
+accordance  with  sections  309.06  and  2921.421  of  the  Revised  Code,  for  a  chief  legal  officer  of  a  municipal
+
+23
+
+corporation or an official designated as prosecutor in a municipal corporation to appoint assistants and employees
+in accordance with sections 733.621 and 2921.421 of the Revised Code, or for a township law director appointed
+under  section  504.15  of  the  Revised  Code  to  appoint  assistants  and  employees  in  accordance  with  sections
+504.151 and 2921.421 of the Revised Code.
+(G) This section does not apply to a public contract in which a township trustee in a township with a
+population of five thousand or less in its unincorporated area, a member of the township trustee's family, or one
+of the township trustee's business associates has an interest, if all of the following apply:
+(1) The subject of the public contract is necessary supplies or services for the township and the amount
+of the contract is less than five thousand dollars per year;
+(2) The supplies or services are being furnished to the township as part of a continuing course of dealing
+established before the township trustee held that office with the township;
+(3)  The  treatment  accorded  the  township  is  either  preferential  to  or  the  same  as  that  accorded  other
+customers or clients in similar transactions;
+(4)The entire transaction is conducted with full knowledge by the township of the interest of the township
+trustee, member of the township trustee's family, or the township trustee's business associate.
+(H) Any public contract in which a public official, a member of the public official's family, or any of
+the public official's business associates has an interest in violation of this section is void and unenforceable. Any
+contract  securing  the  investment  of  public  funds  in  which  a  public  official,  a  member  of  the  public  official's
+family,  or  any  of  the  public  official's  business  associates  has  an  interest,  is  an  underwriter,  or  receives  any
+brokerage,  origination,  or  servicing  fees  and  that  was  entered  into in  violation  of  this  section  is  void  and
+unenforceable.
+(I) As used in this section:
+(1) "Public contract" means any of the following:
+(a) The purchase or acquisition, or a contract for the purchase or acquisition, of property or services by
+or for the use of the state, any of its political subdivisions, or any agency or instrumentality of either, including
+the employment of an individual by the state, any of its political subdivisions, or any agency or instrumentality
+of either;
+(b) A contract for the design, construction, alteration, repair, or maintenance of any public property.
+(2) "Chief legal officer" has the same meaning as in section 733.621 of the Revised Code.
+
+Sec. 2921.421
+
+ (A)  As used in this section:
+ (1)  "Chief legal officer" has the same meaning as in section 733.621 of the Revised Code.
+ (2)  "Political subdivision" means a county, a municipal corporation, or a township that adopts a limited
+home rule government under Chapter 504. of the Revised Code.
+ (B)  A prosecuting attorney may appoint assistants and employees, except a member of the family of the
+prosecuting attorney, in accordance with division (B) of section 309.06 of the Revised Code, a chief legal officer
+of  a  municipal  corporation  or  an  official  designated  as  prosecutor  in  a  municipal  corporation  may  appoint
+assistants  and  employees,  except  a  member  of  the  family  of  the  chief  legal  officer  or  official  designated  as
+prosecutor,  in  accordance  with  section  733.621  of  the  Revised  Code,  and  a  township  law  director  appointed
+under section 504.15 of the Revised Code may appoint assistants and employees, except a member of the family
+of the township law director, in accordance with section 504.151 of the Revised Code, if all of the following
+apply:
+ (1)  The services to be furnished by the appointee or employee are necessary services for the political
+subdivision or are authorized by the legislative authority, governing board, or other contracting authority of the
+political subdivision.
+ (2)  The treatment accorded the political subdivision is either preferential to or the same as that accorded
+other  clients  or  customers  of  the  appointee  or  employee  in  similar  transactions,  or  the  legislative  authority,
+governing board, or other contracting authority of the political subdivision, in its sole discretion, determines that
+the  compensation  and  other  terms  of  appointment  or  employment  of  the  appointee  or  employee  are  fair  and
+reasonable to the political subdivision.
+ (3)  The appointment or employment is made after prior written disclosure to the legislative authority,
+governing board, or other contracting authority of the political subdivision of the business relationship between
+
+24
+
+the prosecuting attorney, the chief legal officer or official designated as prosecutor in a municipal corporation,
+or the township law director and the appointee or employee thereof.  In the case of a municipal corporation, the
+disclosure may be made or evidenced in an ordinance, resolution, or other document that does either or both of
+the following:
+ (a)  Authorizes the furnishing of services as required under division (B)(1) of this section;
+ (b)  Determines that the compensation and other terms of appointment or employment of the appointee
+or employee are fair and reasonable to the political subdivision as required under division (B)(2) of this section.
+ (4)  The prosecuting attorney, the elected chief legal officer, or the township law director does not receive
+any distributive share or other portion, in whole or in part, of the earnings of the business associate, partner, or
+employee paid by the political subdivision to the business associate, partner, or employee for services rendered
+for the political subdivision.
+ (C)    It  is  not  a  violation  of  this  section  or  of  section  102.03  or  2921.42  of  the  Revised  Code  for  the
+legislative authority, the governing board, or other contracting authority of a political subdivision to engage the
+services of any firm that practices the profession of law upon the terms approved by the legislative authority, the
+governing board, or the contracting authority, or to designate any partner, officer, or employee of that firm as a
+nonelected  public  official  or  employee  of  the  political  subdivision,  whether  the  public  office  or  position  of
+employment is created by statute, charter, ordinance, resolution, or other legislative or administrative action.
+
+Section 2921.43
+
+ (A)  No public servant shall knowingly solicit or accept, and no person shall knowingly promise or give
+to a public servant, either of the following:
+ (1)    Any  compensation,  other  than  as  allowed  by  divisions  (G),  (H),  and  (I)  of  section  102.03  of  the
+Revised Code or other provisions of law, to perform the public servant's official duties, to perform any other act
+or service in the public servant's public capacity, for the general performance of the duties of the public servant's
+public office or public employment, or as a supplement to the public servant's public compensation;
+ (2)  Additional or greater fees or costs than are allowed by law to perform the public servant's official
+duties.
+ (B)    No  public  servant  for  the  public  servant's  own  personal  or  business  use,  and  no  person  for  the
+person's own personal or business use or for the personal or business use of a public servant or party official,
+shall solicit or accept anything of value in consideration of either of the following:
+ (1)  Appointing or securing, maintaining, or renewing the appointment of any person to any public office,
+employment, or agency;
+ (2)  Preferring, or maintaining the status of, any public employee with respect to compensation, duties,
+placement, location, promotion, or other material aspects of employment.
+ (C)    No  person  for  the  benefit  of  a  political  party,  campaign  committee,  legislative  campaign  fund,
+political action committee, or political contributing entity shall coerce any contribution in consideration of either
+of the following:
+ (1)  Appointing or securing, maintaining, or renewing the appointment of any person to any public office,
+employment, or agency;
+ (2)  Preferring, or maintaining the status of, any public employee with respect to compensation, duties,
+placement, location, promotion, or other material aspects of employment.
+ (D)  Whoever violates this section is guilty of soliciting improper compensation, a misdemeanor of the
+first degree.
+ (E)    A  public  servant  who  is  convicted  of  a  violation  of  this  section  is  disqualified  from  holding  any
+public office, employment, or position of trust in this state for a period of seven years from the date of conviction.
+ (F)    Divisions  (A),  (B),  and  (C)  of  this  section  do  not  prohibit  a  person  from  making  voluntary
+contributions to a political party, campaign committee, legislative campaign fund, political action committee, or
+political contributing entity or prohibit a political party, campaign committee, legislative campaign fund, political
+action committee, or political contributing entity, from accepting voluntary contributions.
+
+25
+
+FOR  MORE  INFORMATION,  OR  ADDITIONAL  MATERIALS  ON  THE  OHIO  ETHICS
+LAW, PLEASE CONTACT:
+
+OHIO ETHICS COMMISSION
+William Green Building
+30 West Spring St., L3
+Columbus, Ohio 43215-2256
+Phone:  (614) 466-7090
+Fax:  (614) 466-8368
+www.ethics.ohio.gov
+
+Revised January 2026

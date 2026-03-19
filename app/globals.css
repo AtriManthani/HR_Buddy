@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Base ────────────────────────────────────────────────────────────────── */
+
+@layer base {
+  html {
+    @apply h-full antialiased;
+  }
+  body {
+    @apply h-full bg-white text-slate-900;
+  }
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+}
+
+/* ── Utilities ───────────────────────────────────────────────────────────── */
+
+@layer utilities {
+  /* Thin scrollbar — applied to the chat message list */
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: theme("colors.slate.200") transparent;
+  }
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 4px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    @apply rounded-full bg-slate-200 hover:bg-slate-300;
+  }
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  /* Shimmer skeleton — used on loading placeholders */
+  .shimmer {
+    background: linear-gradient(
+      90deg,
+      theme("colors.slate.100") 25%,
+      theme("colors.slate.200") 50%,
+      theme("colors.slate.100") 75%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 1.6s ease-in-out infinite;
+  }
+}
+
+/* ── Prose — assistant message body ─────────────────────────────────────── */
+
+@layer components {
+  .prose-chat {
+    @apply text-sm leading-relaxed text-slate-800;
+  }
+  .prose-chat p {
+    @apply mb-2 last:mb-0;
+  }
+  /* Headings emitted by the model */
+  .prose-chat h2 {
+    @apply mb-1.5 mt-3 text-sm font-semibold text-slate-900 first:mt-0;
+  }
+  .prose-chat h3 {
+    @apply mb-1 mt-2.5 text-sm font-medium text-slate-900 first:mt-0;
+  }
+  /* Custom bullet list — avoids default browser disc indent */
+  .prose-chat ul {
+    @apply mb-2 space-y-1 last:mb-0;
+  }
+  .prose-chat ol {
+    @apply mb-2 ml-5 list-decimal space-y-1 last:mb-0;
+  }
+  .prose-chat ol li {
+    @apply pl-0.5;
+  }
+  .prose-chat strong {
+    @apply font-semibold text-slate-900;
+  }
+  .prose-chat em {
+    @apply italic;
+  }
+  .prose-chat code {
+    @apply rounded bg-slate-100 px-1 py-0.5 font-mono text-xs text-slate-700;
+  }
+  .prose-chat blockquote {
+    @apply border-l-2 border-slate-200 pl-3 italic text-slate-500;
+  }
+}

@@ -1,0 +1,17 @@
+# Place HR policy documents here before running: npm run ingest
+#
+# Supported formats:
+#   .md  — Markdown (preferred; headings become section metadata)
+#   .txt — Plain text
+#   .pdf — PDF (requires pdf-parse; text extraction happens in ingest script)
+#
+# Naming convention:
+#   kebab-case, descriptive, no spaces
+#   Examples:
+#     annual-leave-policy.md
+#     code-of-conduct.md
+#     benefits-and-compensation.md
+#     disciplinary-procedure.txt
+#
+# Files in this directory are NOT committed to version control if they
+# contain sensitive company information. Add them to .gitignore as needed.
