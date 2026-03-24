@@ -14,6 +14,15 @@ const nextConfig: NextConfig = {
   // already run in ts-node (not Next.js) so this is a belt-and-suspenders guard.
   serverExternalPackages: ["pdf-parse"],
 
+  // Explicitly include data/index.json in the /api/chat serverless function
+  // bundle.  Next.js file tracing (@vercel/nft) only auto-traces statically
+  // analysable imports (require/import).  The vector store reads this file
+  // dynamically via fs.readFileSync, so it must be listed here to be packaged
+  // into the Lambda on Vercel — without this, the file is absent at runtime.
+  outputFileTracingIncludes: {
+    "/api/chat": ["./data/index.json"],
+  },
+
   // ── Security headers ────────────────────────────────────────────────────────
   //
   // Applied to every route.  These are baseline hardening headers; they do not
