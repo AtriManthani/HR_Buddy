@@ -81,31 +81,25 @@ export function retrieveChunks(
   topK: number = DEFAULT_TOP_K,
   options: RetrieveOptions = {}
 ): RetrievedChunk[] {
-  const minScore  = options.minScore  ?? DEFAULT_MIN_SCORE;
+  void (options.minScore  ?? DEFAULT_MIN_SCORE); // DEBUG: bypassed
   const maxPerDoc = options.maxPerDoc ?? MAX_CHUNKS_PER_DOC;
 
   const chunks = getAllChunks();
 
   // ── Step 1: Score every chunk ──────────────────────────────────────────────
+  // DEBUG: force minScore=0.0 to diagnose retrieval on Vercel
+  const effectiveMinScore = 0.0;
 
   const scored: RetrievedChunk[] = [];
-  let debugMaxScore = -Infinity;
 
   for (const chunk of chunks) {
     const score = cosineSimilarity(queryEmbedding, chunk.embedding);
-    if (score > debugMaxScore) debugMaxScore = score;
-    if (score >= minScore) {
+    if (score >= effectiveMinScore) {
       scored.push({ ...chunk, score });
     }
   }
 
-  // Temporary diagnostic: always log the best score found so we can see it
-  // in Vercel function logs regardless of whether it passed the threshold.
-  console.log(
-    `[retriever] chunks=${chunks.length} passed=${scored.length} ` +
-    `minScore=${minScore} bestScore=${debugMaxScore.toFixed(4)} ` +
-    `queryDim=${queryEmbedding.length} indexDim=${chunks[0]?.embedding.length ?? 0}`
-  );
+  console.log(`[retriever-debug] chunks=${chunks.length} passed=${scored.length} topScore=${scored[0]?.score?.toFixed(4) ?? 'none'}`);
 
   // ── Step 2: Sort by score descending ──────────────────────────────────────
 
