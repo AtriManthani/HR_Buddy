@@ -5,20 +5,18 @@
  * ─────────────────
  * 1. NEVER log user message content, session secrets, or API keys.
  *    Only metadata is captured: lengths, counts, scores, latency, event names.
- * 2. Structured JSON output in production — Vercel log drain, Datadog, Axiom,
+ * 2. Structured JSON output in production — Datadog, Axiom, Logtail,
  *    and similar tools can parse newline-delimited JSON directly.
  * 3. Human-readable dev output — plain `[level] event key=value …` lines
  *    when NODE_ENV !== "production", for local development readability.
  * 4. All fields are plain scalars (string | number | boolean | null) so the
  *    output is safe to pass to any downstream log aggregator without escaping.
  *
- * Vercel observability integration
- * ─────────────────────────────────
- * // VERCEL ANALYTICS HOOK: replace console.* calls below with Vercel Log Drain
- * // output by setting up a Log Drain in your project's Vercel dashboard.
- * // All structured fields are preserved when logs flow to an external sink
- * // (e.g. Datadog, Axiom, Logtail) via the Vercel log drain integration.
- * // See: https://vercel.com/docs/observability/log-drains
+ * Observability integration
+ * ─────────────────────────
+ * // ANALYTICS HOOK: replace console.* calls below with your preferred log sink.
+ * // All structured fields are plain scalars — safe to forward to Datadog,
+ * // Axiom, Logtail, or any NDJSON-compatible log aggregator.
  *
  * Usage
  * ─────
@@ -43,7 +41,7 @@ const IS_PROD = process.env.NODE_ENV === "production";
 /**
  * Emits a structured log entry.
  *
- * In production: JSON line on stdout (Vercel captures these as structured logs).
+ * In production: JSON line on stdout (forwarded to any log aggregator).
  * In development: formatted `[LEVEL] event field=value …` line for readability.
  *
  * @param level  - Severity level.
@@ -52,11 +50,8 @@ const IS_PROD = process.env.NODE_ENV === "production";
  */
 export function log(level: LogLevel, event: string, fields?: LogFields): void {
   if (IS_PROD) {
-    // Structured JSON — one object per line, compatible with Vercel log drains,
-    // Datadog log ingestion, and Axiom log shipping.
-    //
-    // VERCEL ANALYTICS HOOK: add `timestamp` field for log drain correlation:
-    //   { level, event, ...fields, timestamp: new Date().toISOString() }
+    // Structured JSON — one object per line, compatible with Datadog,
+    // Axiom, Logtail, and any NDJSON-compatible log aggregator.
     const entry: Record<string, unknown> = {
       level,
       event,

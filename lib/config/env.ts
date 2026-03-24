@@ -39,7 +39,7 @@ function require(key: string): string {
   if (!value || value.trim() === "") {
     throw new Error(
       `[env] Required environment variable "${key}" is missing or empty. ` +
-        "Set it in .env.local (development) or in your Vercel project settings (production)."
+        "Set it in .env.local (development) or in your production environment variables."
     );
   }
   return value.trim();
@@ -66,8 +66,15 @@ function optionalNumber(key: string, defaultValue: number): number {
 export const env = {
   // ── OpenAI ─────────────────────────────────────────────────────────────────
 
-  /** OpenAI secret API key. Required. Never exposed to the client. */
-  OPENAI_API_KEY: require("OPENAI_API_KEY"),
+  /**
+   * OpenAI secret API key.
+   * Required in production (real pipeline).
+   * Optional when DEMO_MODE=true — a placeholder value is used and the
+   * OpenAI client is never called (the demo handler short-circuits first).
+   */
+  OPENAI_API_KEY: process.env.DEMO_MODE === "true"
+    ? (process.env.OPENAI_API_KEY ?? "demo-mode-no-key-needed")
+    : require("OPENAI_API_KEY"),
 
   /**
    * Chat completion model.
@@ -121,6 +128,11 @@ export const env = {
    * Required. Must be at least 32 characters.
    */
   SESSION_SECRET: (() => {
+    // In DEMO_MODE the session store is still used (in-memory UUIDs), but
+    // no cryptographic signing requires a real secret, so accept a placeholder.
+    if (process.env.DEMO_MODE === "true") {
+      return process.env.SESSION_SECRET ?? "demo-mode-placeholder-session-secret-32c";
+    }
     const val = require("SESSION_SECRET");
     if (val.length < 32) {
       throw new Error(

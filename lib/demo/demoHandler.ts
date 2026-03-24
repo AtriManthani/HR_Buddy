@@ -6,11 +6,11 @@
  * realistic response — correct NDJSON streaming format, citation cards,
  * recommendation banners — without calling the OpenAI API or the vector store.
  *
- * Purpose: enables a live Vercel demo deployment without requiring a live
+ * Purpose: enables a live demo deployment without requiring a live
  * OpenAI API key.  The responses are based on the actual policy documents
  * in data/raw/ and match the output format of the real pipeline exactly.
  *
- * To activate: set DEMO_MODE=true in Vercel environment variables.
+ * To activate: set DEMO_MODE=true in environment variables.
  * To deactivate: remove DEMO_MODE or set it to any value other than "true".
  */
 

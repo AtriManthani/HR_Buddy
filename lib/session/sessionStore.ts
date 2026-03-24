@@ -4,9 +4,9 @@
  * Stores the last N message pairs per session so the LLM sees prior context.
  *
  * Storage: module-level Map<string, SessionState>.
- *   Works for single-instance Next.js (dev) and single Vercel function instance.
- *   For multi-instance / cold-start persistence, swap the Map internals for
- *   Vercel KV or Upstash Redis — the public API stays identical.
+ *   Works for single-instance Node.js server processes.
+ *   For multi-instance / persistence across restarts, swap the Map internals
+ *   for Upstash Redis or any key-value store — the public API stays identical.
  *
  * Session ID: UUID v4 generated server-side on first request, returned to the
  *   client in the metadata chunk, echoed back in subsequent requests.

@@ -1,19 +1,18 @@
 /**
- * lib/rateLimit/ipExtract.ts — client IP extraction for Vercel deployments.
+ * lib/rateLimit/ipExtract.ts — client IP extraction from request headers.
  *
  * Header priority
  * ───────────────
- * Vercel's infrastructure always sets `x-forwarded-for` with the true client
- * IP as the first entry (before any intermediate proxies it adds).  On
- * self-hosted deployments behind nginx, `x-real-ip` is the common alternative.
+ * When behind a reverse proxy (nginx, Caddy, etc.), `x-forwarded-for` carries
+ * the true client IP as the first entry.  `x-real-ip` is the common nginx
+ * alternative header.
  *
  * Security note
  * ─────────────
- * On Vercel, `x-forwarded-for` is set by Vercel's own CDN and cannot be
- * spoofed by the client — the CDN overwrites any client-supplied value.
- * On self-hosted deployments, if the server is not correctly configured to
- * strip or trust proxy headers, this value CAN be spoofed.  For self-hosted
- * production use, configure your reverse proxy to set a trusted header.
+ * If your reverse proxy is correctly configured it will overwrite any
+ * client-supplied forwarded-for value before the request reaches the app.
+ * For production use, configure your reverse proxy to set a trusted header
+ * and strip any client-supplied values.
  *
  * The function accepts a minimal header interface so it is usable from both
  * the Edge middleware (`NextRequest`) and Node.js route handlers (`Request`).
@@ -32,7 +31,7 @@ export interface HeaderReader {
  *                  (local development without a reverse proxy).
  */
 export function extractIp(headers: HeaderReader): string {
-  // Vercel CDN sets this; value is "clientIp, proxy1, proxy2"
+  // Reverse proxy sets this; value is "clientIp, proxy1, proxy2"
   const forwarded = headers.get("x-forwarded-for");
   if (forwarded) {
     const first = forwarded.split(",")[0].trim();

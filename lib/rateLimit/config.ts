@@ -21,7 +21,7 @@
  *
  * Upgrade path
  * ────────────
- * When moving to a distributed rate limiter (Upstash Redis, Vercel KV):
+ * When moving to a distributed rate limiter (Upstash Redis):
  *   1. Keep this file unchanged — limits are backend-agnostic.
  *   2. Create a new RateLimiter implementation (e.g. UpstashRateLimiter).
  *   3. Swap the factory call in middleware.ts.

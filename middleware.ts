@@ -1,13 +1,13 @@
 /**
  * middleware.ts — Next.js Edge Middleware for rate limiting.
  *
- * Runs at the Vercel CDN edge before any serverless function is invoked,
- * making it the cheapest and most effective place to block abuse — rejected
- * requests never reach the Node.js runtime or the OpenAI API.
+ * Runs before any route handler is invoked, making it an effective place
+ * to block abuse — rejected requests never reach the Node.js runtime or
+ * the OpenAI API.
  *
  * What it does
  * ────────────
- * 1. Extracts the client IP from Vercel's `x-forwarded-for` header.
+ * 1. Extracts the client IP from the `x-forwarded-for` header.
  * 2. Checks the burst window  (5 req / 10 s per IP by default).
  * 3. Checks the sustained window (20 req / 60 s per IP by default).
  * 4. If either limit is exceeded → returns 429 Too Many Requests with
@@ -30,12 +30,11 @@
  *
  * In-memory vs distributed
  * ─────────────────────────
- * Limits are enforced per-edge-node (each Vercel edge location has its own
- * counter Map).  For most internal HR tooling deployments this is sufficient
- * — a single bad actor hitting one edge node is blocked there.
+ * Limits are enforced per-process (each server instance has its own counter
+ * Map). For most single-instance HR tooling deployments this is sufficient.
  *
- * For strict global enforcement across all edge nodes, swap the limiter
- * implementation in createRateLimiters() to use Upstash Redis or Vercel KV.
+ * For strict global enforcement across multiple instances, swap the limiter
+ * implementation in createRateLimiters() to use Upstash Redis.
  * The middleware code here does not need to change.
  *
  * Disabling for testing
@@ -52,7 +51,7 @@ import { extractIp }                      from "@/lib/rateLimit/ipExtract";
 // ── Singleton rate limiter instances ─────────────────────────────────────────
 //
 // Module-level singletons persist for the lifetime of the Edge worker process.
-// On Vercel, each edge node maintains its own pair of limiters.
+// Each server process maintains its own pair of limiters.
 //
 // These are created once at module load — safe because InMemoryRateLimiter
 // uses only standard JS globals (no Node.js APIs, fully Edge-compatible).

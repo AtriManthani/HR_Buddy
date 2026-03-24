@@ -7,20 +7,14 @@
  * is the default implementation — it uses a module-level Map that persists
  * within a single process (Edge worker, Node.js server).
  *
- * In-memory behaviour on Vercel
- * ──────────────────────────────
- * Vercel Edge middleware runs in long-lived V8 isolates at CDN edge nodes.
- * The Map survives across requests handled by the same isolate, so rate
- * limiting works correctly within one edge node.  Different edge nodes
- * maintain independent Maps, which means limits are per-node rather than
- * globally shared — acceptable for basic abuse protection.
+ * In-memory behaviour
+ * ────────────────────
+ * The Map persists within a single server process. Rate limiting works
+ * correctly within one process instance. For true global enforcement
+ * (e.g. coordinated attacks, strict per-user quotas) replace
+ * InMemoryRateLimiter with a distributed implementation:
  *
- * For true global enforcement (e.g. coordinated attacks from many IPs, or
- * strict per-user quotas) replace InMemoryRateLimiter with a distributed
- * implementation backed by Upstash Redis or Vercel KV:
- *
- *   @upstash/ratelimit + @upstash/redis  — drop-in, fully edge-compatible
- *   @vercel/kv                           — Vercel-native, minimal config
+ *   @upstash/ratelimit + @upstash/redis  — drop-in, edge-compatible
  *
  * Upgrade path
  * ────────────

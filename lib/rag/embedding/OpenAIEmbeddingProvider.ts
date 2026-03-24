@@ -53,7 +53,7 @@ export class OpenAIEmbeddingProvider implements EmbeddingProvider {
         throw new Error(
           "[OpenAIEmbeddingProvider] OPENAI_API_KEY is not set.\n" +
             "Set it in .env.local (local dev / scripts) or in your " +
-            "hosting environment (Vercel / Railway / etc.)."
+            "hosting environment."
         );
       }
       this._client = new OpenAI({ apiKey });

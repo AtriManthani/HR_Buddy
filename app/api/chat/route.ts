@@ -187,7 +187,7 @@ export async function POST(req: NextRequest): Promise<Response> {
   // Log guardrail outcome regardless of allow/block — useful for tuning false
   // positive rates and detecting abuse patterns in production log aggregators.
   //
-  // VERCEL ANALYTICS HOOK: pipe "chat.guardrail.blocked" events to an alerting
+  // ANALYTICS HOOK: pipe "chat.guardrail.blocked" events to an alerting
   // integration (e.g. Datadog monitor, PagerDuty) for spike detection.
   log(guardrail.allowed ? "info" : "warn", "chat.guardrail.checked", {
     allowed:   guardrail.allowed,
@@ -318,7 +318,7 @@ async function runPipeline(
   // Log retrieval metadata for RAG quality monitoring.
   // topScore and unique doc count help detect embedding quality regressions.
   //
-  // VERCEL ANALYTICS HOOK: pipe "chat.rag.retrieved" events to a Datadog
+  // ANALYTICS HOOK: pipe "chat.rag.retrieved" events to a Datadog
   // metric (histogram on latencyMs, gauge on topScore) for SLO tracking.
   const topScore    = chunks[0]?.score ?? null;
   const uniqueDocs  = new Set(chunks.map((c) => c.metadata?.sourceFile)).size;
@@ -436,7 +436,7 @@ async function runPipeline(
   // Log LLM completion metadata — response length is a useful proxy for
   // token consumption when usage stats are not available in streaming mode.
   //
-  // VERCEL ANALYTICS HOOK: pipe "chat.llm.complete" to track p50/p95 latency
+  // ANALYTICS HOOK: pipe "chat.llm.complete" to track p50/p95 latency
   // and response lengths in a time-series dashboard.
   const llmLatencyMs = llmTimer();
   log("info", "chat.llm.complete", {
@@ -548,7 +548,7 @@ async function runPipeline(
 
   const { sanitizedContent, flagged, reasons } = validateModelOutput(fullContent);
 
-  // VERCEL ANALYTICS HOOK: pipe "chat.output.guard.flagged" events to a
+  // ANALYTICS HOOK: pipe "chat.output.guard.flagged" events to a
   // security alert channel (Slack webhook, PagerDuty, etc.) for prompt
   // injection / system-prompt leak monitoring.
   qs.outputFlagged = flagged;

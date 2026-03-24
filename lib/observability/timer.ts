@@ -2,7 +2,7 @@
  * lib/observability/timer.ts — high-resolution latency measurement.
  *
  * Uses `Date.now()` (millisecond precision) so it works in both the Node.js
- * runtime and the Vercel Edge runtime without any polyfills.
+ * runtime and edge runtimes without any polyfills.
  *
  * Usage
  * ─────

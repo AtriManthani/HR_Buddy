@@ -13,11 +13,10 @@
  *   for a Pinecone / Supabase pgvector / Qdrant client without changing the
  *   public API (search signature stays the same).
  *
- * Vercel compatibility:
+ * Runtime note:
  *   The index is read at cold-start time and kept in module-level memory for
- *   the lifetime of the serverless function instance:
+ *   the lifetime of the server process:
  *     - index.json is read-only (never written at runtime).
- *     - Vercel functions have up to 1 GB RAM.
  *     - Cold-start read of a ~50 MB JSON takes ~200 ms (acceptable).
  *
  * Expected dimensions: 1 536 (text-embedding-3-small).

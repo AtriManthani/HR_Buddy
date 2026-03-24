@@ -5,9 +5,8 @@ const nextConfig: NextConfig = {
   reactStrictMode: true,
 
   // Fix Next.js multi-lockfile workspace root detection warning.
-  // Pins the trace root to this project's directory so Vercel deployment
-  // and local builds do not warn about adjacent package-lock.json files.
-  // In Next.js 15 this is a top-level option (moved out of experimental).
+  // Pins the trace root to this project's directory so local builds
+  // do not warn about adjacent package-lock.json files.
   outputFileTracingRoot: require("path").join(__dirname),
 
   // pdf-parse uses native Node addons — keep it out of the edge/client bundle.
@@ -59,7 +58,7 @@ const nextConfig: NextConfig = {
               "frame-ancestors 'none'",
             ].join("; "),
           },
-          // Force HTTPS for 1 year on Vercel (ignored in HTTP local dev)
+          // Force HTTPS for 1 year (ignored on plain HTTP in local dev)
           {
             key:   "Strict-Transport-Security",
             value: "max-age=31536000; includeSubDomains",
