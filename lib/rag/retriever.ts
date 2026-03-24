@@ -89,13 +89,23 @@ export function retrieveChunks(
   // ── Step 1: Score every chunk ──────────────────────────────────────────────
 
   const scored: RetrievedChunk[] = [];
+  let debugMaxScore = -Infinity;
 
   for (const chunk of chunks) {
     const score = cosineSimilarity(queryEmbedding, chunk.embedding);
+    if (score > debugMaxScore) debugMaxScore = score;
     if (score >= minScore) {
       scored.push({ ...chunk, score });
     }
   }
+
+  // Temporary diagnostic: always log the best score found so we can see it
+  // in Vercel function logs regardless of whether it passed the threshold.
+  console.log(
+    `[retriever] chunks=${chunks.length} passed=${scored.length} ` +
+    `minScore=${minScore} bestScore=${debugMaxScore.toFixed(4)} ` +
+    `queryDim=${queryEmbedding.length} indexDim=${chunks[0]?.embedding.length ?? 0}`
+  );
 
   // ── Step 2: Sort by score descending ──────────────────────────────────────
 
