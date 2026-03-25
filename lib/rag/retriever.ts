@@ -50,7 +50,7 @@ const DEFAULT_TOP_K     = env.RAG_TOP_K;
 const DEFAULT_MIN_SCORE = env.RAG_MIN_SCORE;
 
 /** Maximum chunks returned from the same source document (diversity cap). */
-const MAX_CHUNKS_PER_DOC = 3;
+const MAX_CHUNKS_PER_DOC = 4;
 
 // ── Public API ─────────────────────────────────────────────────────────────────
 

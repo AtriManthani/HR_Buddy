@@ -174,9 +174,9 @@ export const env = {
 
   /**
    * Number of top-k chunks returned by the retriever per query.
-   * Default: 8 — increased to ensure enough context for multi-section topics.
+   * Default: 10 — enough for comprehensive list/table queries.
    */
-  RAG_TOP_K: optionalNumber("RAG_TOP_K", 8),
+  RAG_TOP_K: optionalNumber("RAG_TOP_K", 10),
 
   /**
    * Minimum cosine similarity score for a chunk to be included (0.0–1.0).

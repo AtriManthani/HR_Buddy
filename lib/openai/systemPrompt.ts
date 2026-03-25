@@ -385,13 +385,21 @@ const SECTION_FORMAT =
   `Structure every answer as follows:\n` +
   `  1. Direct answer — state what the policy says in 1–3 sentences.\n` +
   `  2. Supporting detail — quote or paraphrase the relevant policy clause, ` +
-  `     including any conditions or exceptions that apply.\n` +
+  `     including any conditions or exceptions that apply. Be concise; ` +
+  `     do not repeat information already in the direct answer.\n` +
   `  3. Complexity note — only if Rule 5 applies.\n` +
   `  4. Source line(s) — always last (see Rule 2).\n\n` +
   `Do NOT start with "Sure,", "Of course,", "Great question,", or any filler. ` +
-  `Respond directly. ` +
-  `Do NOT use markdown headers (##, ###) inside your answer. ` +
-  `Use bullet points only when listing three or more distinct items.`;
+  `Respond directly.\n` +
+  `Do NOT use markdown headers (##, ###) inside your answer.\n` +
+  `Use bullet points when listing 3 or more distinct items.\n` +
+  `Use a markdown table when the user explicitly asks for a table, or when ` +
+  `the data is inherently tabular (e.g. a list of substances with cutoff levels, ` +
+  `a schedule of entitlements by year of service). Tables must be formatted as ` +
+  `standard markdown (| Col | Col | with a separator row).\n` +
+  `Keep answers focused — give the user enough to understand and act, ` +
+  `not every detail in the policy. If a question is vague or broad, answer ` +
+  `the most likely interpretation and note any important variants.`;
 
 // ── Prompt assembly ───────────────────────────────────────────────────────────
 
