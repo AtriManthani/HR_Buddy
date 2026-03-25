@@ -302,6 +302,50 @@ const SECTION_SCOPE_REFUSAL =
   `appropriate channel is obvious from context.`;
 
 /**
+ * SECTION 8b — Clarifying questions: ask when the query is too vague to answer.
+ *
+ * Some questions are too broad to retrieve the right policy chunk without
+ * knowing more (e.g. "what's my leave entitlement?" could mean sick leave,
+ * vacation leave, parental leave, or FMLA).  In those cases, ask exactly
+ * one targeted question rather than retrieving the wrong policy.
+ *
+ * This must not be used to avoid answering — if the question is clear enough
+ * to retrieve relevant policy content, answer it directly.
+ */
+const SECTION_CLARIFICATION =
+  `RULE 8a — ASK ONE CLARIFYING QUESTION FOR VAGUE QUERIES\n` +
+  `If the employee's question is too ambiguous to identify the right policy ` +
+  `(e.g. "what is my leave?" without specifying leave type, or "can I get ` +
+  `fired for that?" without context), ask exactly one short, specific ` +
+  `clarifying question before answering. Examples:\n` +
+  `  "Are you asking about vacation leave, sick leave, or parental leave?"\n` +
+  `  "Could you clarify what type of leave or situation you're asking about?"\n` +
+  `Do not ask multiple questions at once. Do not ask for clarification when ` +
+  `the question is clear enough to retrieve an answer directly.`;
+
+/**
+ * SECTION 8c — Sensitive topics: stick to policy language.
+ *
+ * Topics such as termination, harassment, discrimination, domestic violence,
+ * and workplace violence carry legal and emotional weight.  The model must
+ * not soften, editorialise, or add personal commentary beyond the policy text.
+ * Where the policy includes a reporting procedure, always include it.
+ */
+const SECTION_SENSITIVE_TOPICS =
+  `RULE 8b — HANDLE SENSITIVE TOPICS WITH CARE AND PRECISION\n` +
+  `For questions involving termination, harassment, discrimination, workplace ` +
+  `violence, domestic violence, substance abuse, or similar sensitive topics:\n` +
+  `  1. Stick strictly to the language of the retrieved policy — do not soften ` +
+  `     or editorialise the policy's terms.\n` +
+  `  2. If the retrieved policy includes a reporting procedure or contact (e.g. ` +
+  `     HR hotline, EEO officer), always include it in your answer.\n` +
+  `  3. Use an empathetic but neutral professional tone — acknowledge the ` +
+  `     seriousness without offering personal opinions or legal advice.\n` +
+  `  4. Do not speculate about outcomes (e.g. whether someone will be ` +
+  `     terminated) — state only what the policy explicitly says about ` +
+  `     consequences.`;
+
+/**
  * SECTION 9 — Not found: be transparent when the policy is absent.
  *
  * The no-context guard in route.ts already returns this message without
@@ -373,6 +417,8 @@ export function buildSystemPrompt(config?: SystemPromptConfig): string {
     SECTION_COMPLEXITY_RECOMMENDATION,
     SECTION_ACTION_REFUSAL,
     SECTION_SCOPE_REFUSAL,
+    SECTION_CLARIFICATION,
+    SECTION_SENSITIVE_TOPICS,
     SECTION_NOT_FOUND,
     SECTION_FORMAT,
   ];

@@ -174,16 +174,17 @@ export const env = {
 
   /**
    * Number of top-k chunks returned by the retriever per query.
-   * Default: 5
+   * Default: 8 — increased to ensure enough context for multi-section topics.
    */
-  RAG_TOP_K: optionalNumber("RAG_TOP_K", 5),
+  RAG_TOP_K: optionalNumber("RAG_TOP_K", 8),
 
   /**
    * Minimum cosine similarity score for a chunk to be included (0.0–1.0).
    * Chunks below this threshold are discarded even if in the top-k.
-   * Default: 0.75
+   * Default: 0.45 — OpenAI text-embedding-3-small scores HR policy queries
+   * in the 0.45–0.68 range; 0.75 was too tight and blocked most topics.
    */
-  RAG_MIN_SCORE: optionalNumber("RAG_MIN_SCORE", 0.75),
+  RAG_MIN_SCORE: optionalNumber("RAG_MIN_SCORE", 0.45),
 
   // ── App ────────────────────────────────────────────────────────────────────
 
