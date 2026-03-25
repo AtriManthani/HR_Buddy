@@ -105,8 +105,12 @@ export function formatContextForPrompt(chunks: RetrievedChunk[]): string {
   const header =
     "[POLICY CONTEXT]\n" +
     "The following excerpts are from official HR policy documents.\n" +
-    "Answer ONLY using information from these excerpts.\n" +
-    "Do not speculate, infer, or draw on general knowledge.";
+    "Base your answer on these excerpts. You may:\n" +
+    "  - Quote or paraphrase text from the excerpts as confirmed policy facts\n" +
+    "  - Apply the rules logically to the user's specific scenario\n" +
+    "  - Synthesise information across multiple excerpts into a single answer\n" +
+    "  - Draw logical conclusions from stated rules (inference from facts is allowed)\n" +
+    "You must NOT state facts, numbers, or entitlements not present in these excerpts.";
 
   if (chunks.length === 0) {
     return (
