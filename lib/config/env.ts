@@ -81,7 +81,7 @@ export const env = {
    * Env key: OPENAI_MODEL
    * Default: gpt-4o-mini
    */
-  OPENAI_MODEL: optional("OPENAI_MODEL", "gpt-4o-mini"),
+  OPENAI_MODEL: optional("OPENAI_MODEL", "gpt-4o"),
 
   /**
    * Embedding model used for both ingestion and query-time embedding.
@@ -147,7 +147,7 @@ export const env = {
    * Max conversation turns retained per session.
    * Default: 6
    */
-  SESSION_MAX_TURNS: optionalNumber("SESSION_MAX_TURNS", 6),
+  SESSION_MAX_TURNS: optionalNumber("SESSION_MAX_TURNS", 12),
 
   // ── Embedding provider ──────────────────────────────────────────────────────
 

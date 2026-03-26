@@ -388,9 +388,11 @@ async function runPipeline(
   const llmTimer = startTimer();
   try {
     stream = await openaiClient.chat.completions.create({
-      model:    CHAT_MODEL,
-      stream:   true,
+      model:       CHAT_MODEL,
+      stream:      true,
       messages,
+      temperature: 0.3,   // low = consistent, precise, factual reasoning
+      max_tokens:  2048,  // allow thorough multi-step answers
     });
     log("info", "chat.llm.stream_started", {
       sessionPrefix: sessionId.slice(0, 8),

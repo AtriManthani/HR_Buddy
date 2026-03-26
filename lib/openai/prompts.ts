@@ -64,7 +64,7 @@ export const SYSTEM_PROMPT = _SYSTEM_PROMPT;
  * When history exceeds this budget, the oldest turns are dropped first so
  * the most recent exchange is always preserved.
  */
-const MAX_HISTORY_CHARS = 10_000;
+const MAX_HISTORY_CHARS = 20_000;
 
 // ── Message builder ───────────────────────────────────────────────────────────
 
