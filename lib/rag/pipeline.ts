@@ -37,12 +37,30 @@
  *     → lib/utils/citations.ts  (formatCitations)
  */
 
-import { embedQuery }       from "./embeddings";
-import { initVectorStore }  from "./vectorStore";
+import { embedQuery, embedBatch } from "./embeddings";
+import { initVectorStore }        from "./vectorStore";
 import { retrieveChunks, type RetrieveOptions } from "./retriever";
-import { formatCitations }  from "@/lib/utils/citations";
+import { expandQuery }            from "./queryExpander";
+import { formatCitations }        from "@/lib/utils/citations";
+import { env }                    from "@/lib/config/env";
 
 import type { RetrievedChunk, Citation } from "@/types";
+
+// ── Retrieval constants ────────────────────────────────────────────────────────
+
+/**
+ * Minimum chunks from the primary pass before we attempt the fallback pass.
+ * If primary retrieval returns fewer than this many chunks, a second pass runs
+ * with a lower similarity threshold to catch relevant-but-lower-scoring chunks.
+ */
+const FALLBACK_TRIGGER_COUNT = 2;
+
+/**
+ * Similarity threshold used in the fallback pass.
+ * Deliberately lower than RAG_MIN_SCORE to cast a wider net when the primary
+ * pass finds little or nothing.
+ */
+const FALLBACK_MIN_SCORE = 0.25;
 
 // ── Result types ───────────────────────────────────────────────────────────────
 
@@ -60,30 +78,113 @@ export interface RetrievalResult {
 // ── Public API ─────────────────────────────────────────────────────────────────
 
 /**
- * Embeds `question` and retrieves the most relevant policy chunks from the
- * in-memory vector store.
+ * Retrieves the most relevant policy chunks for a question using multi-query
+ * retrieval with an automatic fallback pass.
  *
- * Initialises the vector store on first call (no-op on subsequent calls).
- * This keeps the route handler free of store lifecycle management.
+ * Strategy (3 layers):
  *
- * @param question  The user's raw question (already sanitised by the route).
+ *   Layer 1 — Multi-query primary retrieval
+ *     Expands the question into up to 3 semantic variants (original + formal
+ *     rewrite + concept-broadened version).  All variants are embedded in a
+ *     single batch call, then each embedding drives an independent retrieval
+ *     pass.  Results are merged and deduplicated by chunk ID.  This dramatically
+ *     improves recall for questions phrased in casual or indirect language.
+ *
+ *   Layer 2 — Fallback pass (low-threshold)
+ *     If the primary pass returns fewer than FALLBACK_TRIGGER_COUNT chunks,
+ *     a second pass runs with a lower similarity threshold (FALLBACK_MIN_SCORE)
+ *     using the original question embedding.  This catches relevant-but-lower-
+ *     scoring chunks that were blocked by the primary threshold.
+ *
+ *   Layer 3 — Merged, deduplicated, re-ranked result
+ *     All chunks from all passes are merged, deduplicated by chunk ID,
+ *     re-sorted by score descending, and capped at topK.
+ *
+ * @param question  The user's retrieval query (rewritten if follow-up).
  * @param options   Optional overrides for topK, minScore, maxPerDoc.
  */
 export async function retrieveRelevantChunks(
   question: string,
   options?: RetrieveOptions & { topK?: number }
 ): Promise<RetrievalResult> {
-  // Ensure the store is loaded.  Safe to call on every request — the init
-  // function is idempotent (no-op once the store is populated).
+  // Ensure the vector store is loaded (idempotent after first call).
   await initVectorStore();
 
-  const embedding = await embedQuery(question);
-  const chunks    = retrieveChunks(embedding, options?.topK, options);
+  const topK     = options?.topK ?? env.RAG_TOP_K;
+  const minScore = options?.minScore ?? env.RAG_MIN_SCORE;
+
+  // ── Layer 1: Multi-query primary retrieval ─────────────────────────────────
+
+  // Expand the question into semantic variants (1–3 strings).
+  const queryVariants = expandQuery(question);
+
+  // Embed all variants in one batch call (one round-trip to OpenAI).
+  const embeddings = queryVariants.length === 1
+    ? [await embedQuery(queryVariants[0])]
+    : await embedBatch(queryVariants);
+
+  // Run a retrieval pass per embedding, collect all chunks.
+  const allChunks: RetrievedChunk[] = [];
+  for (const embedding of embeddings) {
+    const passChunks = retrieveChunks(embedding, topK, { ...options, minScore });
+    allChunks.push(...passChunks);
+  }
+
+  // Deduplicate by chunk ID, keeping the highest score for each.
+  let merged = deduplicateChunks(allChunks);
+
+  // ── Layer 2: Fallback pass if primary found very little ────────────────────
+
+  if (merged.length < FALLBACK_TRIGGER_COUNT) {
+    // Use the original question embedding (first in the batch) for the fallback.
+    const fallbackEmbedding = embeddings[0];
+    const fallbackChunks = retrieveChunks(
+      fallbackEmbedding,
+      topK,
+      { ...options, minScore: FALLBACK_MIN_SCORE }
+    );
+
+    if (fallbackChunks.length > 0) {
+      merged = deduplicateChunks([...merged, ...fallbackChunks]);
+    }
+  }
+
+  // ── Layer 3: Re-rank and cap ───────────────────────────────────────────────
+
+  // Sort by score descending and cap at topK.
+  const chunks = merged
+    .sort((a, b) => b.score - a.score)
+    .slice(0, topK);
 
   return {
     chunks,
     hasContext: chunks.length > 0,
   };
+}
+
+// ── Internal helpers ──────────────────────────────────────────────────────────
+
+/**
+ * Merges an array of possibly-duplicate chunks, keeping the highest score
+ * for each unique chunk (identified by sourceFile + text content hash).
+ *
+ * Using text slice as the dedup key avoids needing a separate chunk ID field
+ * while being robust to any chunk ordering.
+ */
+function deduplicateChunks(chunks: RetrievedChunk[]): RetrievedChunk[] {
+  const seen = new Map<string, RetrievedChunk>();
+
+  for (const chunk of chunks) {
+    // Key on source file + first 80 chars of text — fast and collision-resistant
+    // for the corpus sizes used here (715 chunks, avg ~1 500 chars each).
+    const key = `${chunk.metadata.sourceFile}::${chunk.text.slice(0, 80)}`;
+    const existing = seen.get(key);
+    if (!existing || chunk.score > existing.score) {
+      seen.set(key, chunk);
+    }
+  }
+
+  return Array.from(seen.values());
 }
 
 /**

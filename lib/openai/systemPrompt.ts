@@ -240,14 +240,22 @@ const SECTION_SCOPE_REFUSAL =
   `  "${REFUSAL_MESSAGES.outOfScope}"`;
 
 const SECTION_NOT_FOUND =
-  `RULE 10 — BE PRECISE ABOUT WHAT YOU COULD AND COULDN'T FIND\n` +
-  `If the retrieved excerpts do not address the question at all:\n` +
-  `  "${REFUSAL_MESSAGES.notFound}"\n` +
-  `If the excerpts partially address the question, answer what you can and state:\n` +
-  `  "The policy addresses [X] but does not specify [Y]. For [Y], contact HR directly."\n` +
-  `Do not attempt to answer from memory or general HR knowledge when excerpts are absent.\n` +
-  `Never fabricate policy details, names, contact information, or specific numbers ` +
-  `that are not present in the retrieved excerpts.`;
+  `RULE 10 — EXHAUST ALL REASONING BEFORE CONCLUDING "NOT FOUND"\n\n` +
+  `The retrieval system already performed multiple semantic passes with synonym ` +
+  `expansion and a low-threshold fallback. If relevant excerpts were returned, ` +
+  `they are in the [POLICY CONTEXT] block. Your job is to reason over ALL of them.\n\n` +
+  `Before concluding information is absent, ask yourself:\n` +
+  `  - Is the answer implied by combining two or more excerpts?\n` +
+  `  - Is the concept described using different terminology in the excerpts?\n` +
+  `  - Is the answer in a related section that was retrieved alongside the primary one?\n` +
+  `  - Can I derive the answer logically from the rules that ARE stated?\n\n` +
+  `If after exhaustive reasoning the excerpts genuinely do not address the question:\n` +
+  `  "${REFUSAL_MESSAGES.notFound}"\n\n` +
+  `If the excerpts partially address the question — answer the part you can find ` +
+  `and explicitly state what's missing:\n` +
+  `  "The policy addresses [X] but does not specify [Y]. For [Y], contact HR directly."\n\n` +
+  `NEVER fabricate facts, numbers, names, or contact information not in the excerpts.\n` +
+  `NEVER say "not found" without first attempting to derive the answer through reasoning.`;
 
 // ── Prompt assembly ───────────────────────────────────────────────────────────
 
